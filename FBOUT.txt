@@ -1,0 +1,8178 @@
+
+
+Station ID: ABR
+The Altitude Weather for 3000 feet is: 3116 32
+Wind Direction: 31 degrees 
+Wind Speed: 16 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 3224+05
+Wind Direction: 32 degrees 
+Wind Speed: 24 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 3249+02
+Wind Direction: 32 degrees 
+Wind Speed: 149 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 3249-02
+Wind Direction: 32 degrees 
+Wind Speed: 149 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 3155-14
+Wind Direction: 31 degrees 
+Wind Speed: 155 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 3066-26
+Wind Direction: 30 degrees 
+Wind Speed: 166 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 308239 
+Wind Direction: 30 degrees 
+Wind Speed: 182 knots 
+Wind Temperature: -39
+
+The Altitude Weather for 34000 feet is: 308148 
+Wind Direction: 30 degrees 
+Wind Speed: 181 knots 
+Wind Temperature: -48
+
+The Altitude Weather for 36000 feet is:  297053
+Wind Direction:  2 degrees 
+Wind Speed: 197 knots 
+Wind Temperature: -5
+
+
+Station ID: ACK
+The Altitude Weather for 3000 feet is: 2127 22
+Wind Direction: 21 degrees 
+Wind Speed: 27 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2222+12
+Wind Direction: 22 degrees 
+Wind Speed: 22 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2628+07
+Wind Direction: 26 degrees 
+Wind Speed: 28 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2825+02
+Wind Direction: 28 degrees 
+Wind Speed: 25 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2631-11
+Wind Direction: 26 degrees 
+Wind Speed: 31 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2640-22
+Wind Direction: 26 degrees 
+Wind Speed: 140 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 276038 
+Wind Direction: 27 degrees 
+Wind Speed: 160 knots 
+Wind Temperature: -38
+
+The Altitude Weather for 34000 feet is: 286744 
+Wind Direction: 28 degrees 
+Wind Speed: 167 knots 
+Wind Temperature: -44
+
+The Altitude Weather for 36000 feet is:  288852
+Wind Direction:  2 degrees 
+Wind Speed: 188 knots 
+Wind Temperature: -85
+
+
+Station ID: ACY
+The Altitude Weather for 3000 feet is: 2411 26
+Wind Direction: 24 degrees 
+Wind Speed: 11 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2616+14
+Wind Direction: 26 degrees 
+Wind Speed: 16 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2728+08
+Wind Direction: 27 degrees 
+Wind Speed: 28 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2736+03
+Wind Direction: 27 degrees 
+Wind Speed: 36 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2835-08
+Wind Direction: 28 degrees 
+Wind Speed: 35 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2756-20
+Wind Direction: 27 degrees 
+Wind Speed: 156 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 266434 
+Wind Direction: 26 degrees 
+Wind Speed: 164 knots 
+Wind Temperature: -34
+
+The Altitude Weather for 34000 feet is: 267943 
+Wind Direction: 26 degrees 
+Wind Speed: 179 knots 
+Wind Temperature: -43
+
+The Altitude Weather for 36000 feet is:  277453
+Wind Direction:  2 degrees 
+Wind Speed: 177 knots 
+Wind Temperature: -45
+
+
+Station ID: AGC
+The Altitude Weather for 3000 feet is: 2716 27
+Wind Direction: 27 degrees 
+Wind Speed: 16 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2724+14
+Wind Direction: 27 degrees 
+Wind Speed: 24 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2937+08
+Wind Direction: 29 degrees 
+Wind Speed: 137 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2937+03
+Wind Direction: 29 degrees 
+Wind Speed: 137 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2840-09
+Wind Direction: 28 degrees 
+Wind Speed: 140 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2843-22
+Wind Direction: 28 degrees 
+Wind Speed: 143 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 285235 
+Wind Direction: 28 degrees 
+Wind Speed: 152 knots 
+Wind Temperature: -35
+
+The Altitude Weather for 34000 feet is: 287143 
+Wind Direction: 28 degrees 
+Wind Speed: 171 knots 
+Wind Temperature: -43
+
+The Altitude Weather for 36000 feet is:  288351
+Wind Direction:  2 degrees 
+Wind Speed: 188 knots 
+Wind Temperature: -35
+
+
+Station ID: ALB
+The Altitude Weather for 3000 feet is: 2113 27
+Wind Direction: 21 degrees 
+Wind Speed: 13 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2721+12
+Wind Direction: 27 degrees 
+Wind Speed: 21 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2725+06
+Wind Direction: 27 degrees 
+Wind Speed: 25 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2730+02
+Wind Direction: 27 degrees 
+Wind Speed: 30 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2629-11
+Wind Direction: 26 degrees 
+Wind Speed: 29 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2747-23
+Wind Direction: 27 degrees 
+Wind Speed: 147 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 264638 
+Wind Direction: 26 degrees 
+Wind Speed: 146 knots 
+Wind Temperature: -38
+
+The Altitude Weather for 34000 feet is: 274945 
+Wind Direction: 27 degrees 
+Wind Speed: 149 knots 
+Wind Temperature: -45
+
+The Altitude Weather for 36000 feet is:  277352
+Wind Direction:  2 degrees 
+Wind Speed: 177 knots 
+Wind Temperature: -35
+
+
+Station ID: ALS
+The Altitude Weather for 3000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 3511+12
+Wind Direction: 35 degrees 
+Wind Speed: 11 knots 
+Wind Temperature: -1
+
+The Altitude Weather for 18000 feet is: 3124-08
+Wind Direction: 31 degrees 
+Wind Speed: 24 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 3120-19
+Wind Direction: 31 degrees 
+Wind Speed: 20 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 283734 
+Wind Direction: 28 degrees 
+Wind Speed: 137 knots 
+Wind Temperature: -34
+
+The Altitude Weather for 34000 feet is: 275342 
+Wind Direction: 27 degrees 
+Wind Speed: 153 knots 
+Wind Temperature: -42
+
+The Altitude Weather for 36000 feet is:  275452
+Wind Direction:  2 degrees 
+Wind Speed: 175 knots 
+Wind Temperature: -45
+
+
+Station ID: AMA
+The Altitude Weather for 3000 feet is:      27
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2708   
+Wind Direction: 27 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 2710+16
+Wind Direction: 27 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2810+09
+Wind Direction: 28 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 3015-06
+Wind Direction: 30 degrees 
+Wind Speed: 15 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2926-17
+Wind Direction: 29 degrees 
+Wind Speed: 26 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 283731 
+Wind Direction: 28 degrees 
+Wind Speed: 137 knots 
+Wind Temperature: -31
+
+The Altitude Weather for 34000 feet is: 283841 
+Wind Direction: 28 degrees 
+Wind Speed: 138 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  294253
+Wind Direction:  2 degrees 
+Wind Speed: 194 knots 
+Wind Temperature: -25
+
+
+Station ID: AST
+The Altitude Weather for 3000 feet is: 0208 02
+Wind Direction: 02 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 0205+13
+Wind Direction: 02 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 1906+08
+Wind Direction: 19 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2014+02
+Wind Direction: 20 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2327-10
+Wind Direction: 23 degrees 
+Wind Speed: 27 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2431-24
+Wind Direction: 24 degrees 
+Wind Speed: 31 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 245938 
+Wind Direction: 24 degrees 
+Wind Speed: 159 knots 
+Wind Temperature: -38
+
+The Altitude Weather for 34000 feet is: 246146 
+Wind Direction: 24 degrees 
+Wind Speed: 161 knots 
+Wind Temperature: -46
+
+The Altitude Weather for 36000 feet is:  255955
+Wind Direction:  2 degrees 
+Wind Speed: 155 knots 
+Wind Temperature: -95
+
+
+Station ID: ATL
+The Altitude Weather for 3000 feet is: 2914 30
+Wind Direction: 29 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 3018+16
+Wind Direction: 30 degrees 
+Wind Speed: 18 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 3212+11
+Wind Direction: 32 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2916+06
+Wind Direction: 29 degrees 
+Wind Speed: 16 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2924-05
+Wind Direction: 29 degrees 
+Wind Speed: 24 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2721-16
+Wind Direction: 27 degrees 
+Wind Speed: 21 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 252330 
+Wind Direction: 25 degrees 
+Wind Speed: 23 knots 
+Wind Temperature: -30
+
+The Altitude Weather for 34000 feet is: 272141 
+Wind Direction: 27 degrees 
+Wind Speed: 21 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  272153
+Wind Direction:  2 degrees 
+Wind Speed: 172 knots 
+Wind Temperature: -15
+
+
+Station ID: AVP
+The Altitude Weather for 3000 feet is: 2309 28
+Wind Direction: 23 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2816+13
+Wind Direction: 28 degrees 
+Wind Speed: 16 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2829+06
+Wind Direction: 28 degrees 
+Wind Speed: 29 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2728+04
+Wind Direction: 27 degrees 
+Wind Speed: 28 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2838-10
+Wind Direction: 28 degrees 
+Wind Speed: 138 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2748-22
+Wind Direction: 27 degrees 
+Wind Speed: 148 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 274437 
+Wind Direction: 27 degrees 
+Wind Speed: 144 knots 
+Wind Temperature: -37
+
+The Altitude Weather for 34000 feet is: 276444 
+Wind Direction: 27 degrees 
+Wind Speed: 164 knots 
+Wind Temperature: -44
+
+The Altitude Weather for 36000 feet is:  287051
+Wind Direction:  2 degrees 
+Wind Speed: 187 knots 
+Wind Temperature: -5
+
+
+Station ID: AXN
+The Altitude Weather for 3000 feet is: 3022 32
+Wind Direction: 30 degrees 
+Wind Speed: 22 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 3229+03
+Wind Direction: 32 degrees 
+Wind Speed: 29 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 3232+01
+Wind Direction: 32 degrees 
+Wind Speed: 32 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 3142-03
+Wind Direction: 31 degrees 
+Wind Speed: 142 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 3055-15
+Wind Direction: 30 degrees 
+Wind Speed: 155 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 3064-27
+Wind Direction: 30 degrees 
+Wind Speed: 164 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 287241 
+Wind Direction: 28 degrees 
+Wind Speed: 172 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 34000 feet is: 287148 
+Wind Direction: 28 degrees 
+Wind Speed: 171 knots 
+Wind Temperature: -48
+
+The Altitude Weather for 36000 feet is:  286549
+Wind Direction:  2 degrees 
+Wind Speed: 186 knots 
+Wind Temperature: -54
+
+
+Station ID: BAM
+The Altitude Weather for 3000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 9900+18
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2107+10
+Wind Direction: 21 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: -1
+
+The Altitude Weather for 18000 feet is: 2412-08
+Wind Direction: 24 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2814-20
+Wind Direction: 28 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 282637 
+Wind Direction: 28 degrees 
+Wind Speed: 26 knots 
+Wind Temperature: -37
+
+The Altitude Weather for 34000 feet is: 273946 
+Wind Direction: 27 degrees 
+Wind Speed: 139 knots 
+Wind Temperature: -46
+
+The Altitude Weather for 36000 feet is:  274954
+Wind Direction:  2 degrees 
+Wind Speed: 174 knots 
+Wind Temperature: -95
+
+
+Station ID: BCE
+The Altitude Weather for 3000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 9900+12
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: -1
+
+The Altitude Weather for 18000 feet is: 9900-09
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 3506-18
+Wind Direction: 35 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 312035 
+Wind Direction: 31 degrees 
+Wind Speed: 20 knots 
+Wind Temperature: -35
+
+The Altitude Weather for 34000 feet is: 282244 
+Wind Direction: 28 degrees 
+Wind Speed: 22 knots 
+Wind Temperature: -44
+
+The Altitude Weather for 36000 feet is:  273952
+Wind Direction:  2 degrees 
+Wind Speed: 173 knots 
+Wind Temperature: -95
+
+
+Station ID: BDL
+The Altitude Weather for 3000 feet is: 2212 24
+Wind Direction: 22 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2424+13
+Wind Direction: 24 degrees 
+Wind Speed: 24 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2524+07
+Wind Direction: 25 degrees 
+Wind Speed: 24 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2629+01
+Wind Direction: 26 degrees 
+Wind Speed: 29 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2728-11
+Wind Direction: 27 degrees 
+Wind Speed: 28 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2846-22
+Wind Direction: 28 degrees 
+Wind Speed: 146 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 264837 
+Wind Direction: 26 degrees 
+Wind Speed: 148 knots 
+Wind Temperature: -37
+
+The Altitude Weather for 34000 feet is: 275545 
+Wind Direction: 27 degrees 
+Wind Speed: 155 knots 
+Wind Temperature: -45
+
+The Altitude Weather for 36000 feet is:  287552
+Wind Direction:  2 degrees 
+Wind Speed: 187 knots 
+Wind Temperature: -55
+
+
+Station ID: BFF
+The Altitude Weather for 3000 feet is:      04
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 0405   
+Wind Direction: 04 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 2816+12
+Wind Direction: 28 degrees 
+Wind Speed: 16 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 3128+06
+Wind Direction: 31 degrees 
+Wind Speed: 28 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 3233-10
+Wind Direction: 32 degrees 
+Wind Speed: 33 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 3035-23
+Wind Direction: 30 degrees 
+Wind Speed: 35 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 293739 
+Wind Direction: 29 degrees 
+Wind Speed: 137 knots 
+Wind Temperature: -39
+
+The Altitude Weather for 34000 feet is: 294047 
+Wind Direction: 29 degrees 
+Wind Speed: 140 knots 
+Wind Temperature: -47
+
+The Altitude Weather for 36000 feet is:  296152
+Wind Direction:  2 degrees 
+Wind Speed: 196 knots 
+Wind Temperature: -15
+
+
+Station ID: BGR
+The Altitude Weather for 3000 feet is: 1910 25
+Wind Direction: 19 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2526+10
+Wind Direction: 25 degrees 
+Wind Speed: 26 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2727+04
+Wind Direction: 27 degrees 
+Wind Speed: 27 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2727+00
+Wind Direction: 27 degrees 
+Wind Speed: 27 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2727-13
+Wind Direction: 27 degrees 
+Wind Speed: 27 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2735-25
+Wind Direction: 27 degrees 
+Wind Speed: 35 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 275340 
+Wind Direction: 27 degrees 
+Wind Speed: 153 knots 
+Wind Temperature: -40
+
+The Altitude Weather for 34000 feet is: 275249 
+Wind Direction: 27 degrees 
+Wind Speed: 152 knots 
+Wind Temperature: -49
+
+The Altitude Weather for 36000 feet is:  285354
+Wind Direction:  2 degrees 
+Wind Speed: 185 knots 
+Wind Temperature: -35
+
+
+Station ID: BHM
+The Altitude Weather for 3000 feet is: 2508 30
+Wind Direction: 25 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 3012+17
+Wind Direction: 30 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2714+11
+Wind Direction: 27 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2819+07
+Wind Direction: 28 degrees 
+Wind Speed: 19 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2912-06
+Wind Direction: 29 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2617-16
+Wind Direction: 26 degrees 
+Wind Speed: 17 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 232730 
+Wind Direction: 23 degrees 
+Wind Speed: 27 knots 
+Wind Temperature: -30
+
+The Altitude Weather for 34000 feet is: 252140 
+Wind Direction: 25 degrees 
+Wind Speed: 21 knots 
+Wind Temperature: -40
+
+The Altitude Weather for 36000 feet is:  262553
+Wind Direction:  2 degrees 
+Wind Speed: 162 knots 
+Wind Temperature: -55
+
+
+Station ID: BIH
+The Altitude Weather for 3000 feet is:      99
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 9900   
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 9900+19
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 1606+11
+Wind Direction: 16 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: -1
+
+The Altitude Weather for 18000 feet is: 9900-07
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 1105-17
+Wind Direction: 11 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 280935 
+Wind Direction: 28 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: -35
+
+The Altitude Weather for 34000 feet is: 251544 
+Wind Direction: 25 degrees 
+Wind Speed: 15 knots 
+Wind Temperature: -44
+
+The Altitude Weather for 36000 feet is:  252952
+Wind Direction:  2 degrees 
+Wind Speed: 152 knots 
+Wind Temperature: -95
+
+
+Station ID: BIL
+The Altitude Weather for 3000 feet is:      99
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 9900   
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 3014+11
+Wind Direction: 30 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2919+03
+Wind Direction: 29 degrees 
+Wind Speed: 19 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 3043-11
+Wind Direction: 30 degrees 
+Wind Speed: 143 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 3159-24
+Wind Direction: 31 degrees 
+Wind Speed: 159 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 295641 
+Wind Direction: 29 degrees 
+Wind Speed: 156 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 34000 feet is: 305950 
+Wind Direction: 30 degrees 
+Wind Speed: 159 knots 
+Wind Temperature: -50
+
+The Altitude Weather for 36000 feet is:  306356
+Wind Direction:  3 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: -35
+
+
+Station ID: BLH
+The Altitude Weather for 3000 feet is: 2105 99
+Wind Direction: 21 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 9900+25
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 2
+
+The Altitude Weather for 9000 feet is: 9900+18
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 9900+10
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: -1
+
+The Altitude Weather for 18000 feet is: 0406-07
+Wind Direction: 04 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2511-16
+Wind Direction: 25 degrees 
+Wind Speed: 11 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 241532 
+Wind Direction: 24 degrees 
+Wind Speed: 15 knots 
+Wind Temperature: -32
+
+The Altitude Weather for 34000 feet is: 222442 
+Wind Direction: 22 degrees 
+Wind Speed: 24 knots 
+Wind Temperature: -42
+
+The Altitude Weather for 36000 feet is:  211053
+Wind Direction:  2 degrees 
+Wind Speed: 11 knots 
+Wind Temperature: -5
+
+
+Station ID: BML
+The Altitude Weather for 3000 feet is: 1611 24
+Wind Direction: 16 degrees 
+Wind Speed: 11 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2425+11
+Wind Direction: 24 degrees 
+Wind Speed: 25 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2524+05
+Wind Direction: 25 degrees 
+Wind Speed: 24 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2626+00
+Wind Direction: 26 degrees 
+Wind Speed: 26 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2633-12
+Wind Direction: 26 degrees 
+Wind Speed: 33 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2744-24
+Wind Direction: 27 degrees 
+Wind Speed: 144 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 265140 
+Wind Direction: 26 degrees 
+Wind Speed: 151 knots 
+Wind Temperature: -40
+
+The Altitude Weather for 34000 feet is: 264848 
+Wind Direction: 26 degrees 
+Wind Speed: 148 knots 
+Wind Temperature: -48
+
+The Altitude Weather for 36000 feet is:  275354
+Wind Direction:  2 degrees 
+Wind Speed: 175 knots 
+Wind Temperature: -35
+
+
+Station ID: BNA
+The Altitude Weather for 3000 feet is: 2508 32
+Wind Direction: 25 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 3209+17
+Wind Direction: 32 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2408+13
+Wind Direction: 24 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2307+07
+Wind Direction: 23 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2723-06
+Wind Direction: 27 degrees 
+Wind Speed: 23 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2734-16
+Wind Direction: 27 degrees 
+Wind Speed: 34 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 253531 
+Wind Direction: 25 degrees 
+Wind Speed: 35 knots 
+Wind Temperature: -31
+
+The Altitude Weather for 34000 feet is: 263441 
+Wind Direction: 26 degrees 
+Wind Speed: 34 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  263953
+Wind Direction:  2 degrees 
+Wind Speed: 163 knots 
+Wind Temperature: -95
+
+
+Station ID: BOI
+The Altitude Weather for 3000 feet is:      99
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 9900+23
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 2
+
+The Altitude Weather for 9000 feet is: 1808+16
+Wind Direction: 18 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2309+08
+Wind Direction: 23 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2629-09
+Wind Direction: 26 degrees 
+Wind Speed: 29 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2640-21
+Wind Direction: 26 degrees 
+Wind Speed: 140 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 285439 
+Wind Direction: 28 degrees 
+Wind Speed: 154 knots 
+Wind Temperature: -39
+
+The Altitude Weather for 34000 feet is: 285148 
+Wind Direction: 28 degrees 
+Wind Speed: 151 knots 
+Wind Temperature: -48
+
+The Altitude Weather for 36000 feet is:  285755
+Wind Direction:  2 degrees 
+Wind Speed: 185 knots 
+Wind Temperature: -75
+
+
+Station ID: BOS
+The Altitude Weather for 3000 feet is: 2230 23
+Wind Direction: 22 degrees 
+Wind Speed: 30 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2331+12
+Wind Direction: 23 degrees 
+Wind Speed: 31 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2529+06
+Wind Direction: 25 degrees 
+Wind Speed: 29 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2727+01
+Wind Direction: 27 degrees 
+Wind Speed: 27 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2629-11
+Wind Direction: 26 degrees 
+Wind Speed: 29 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2734-23
+Wind Direction: 27 degrees 
+Wind Speed: 34 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 284838 
+Wind Direction: 28 degrees 
+Wind Speed: 148 knots 
+Wind Temperature: -38
+
+The Altitude Weather for 34000 feet is: 275847 
+Wind Direction: 27 degrees 
+Wind Speed: 158 knots 
+Wind Temperature: -47
+
+The Altitude Weather for 36000 feet is:  288052
+Wind Direction:  2 degrees 
+Wind Speed: 188 knots 
+Wind Temperature: -5
+
+
+Station ID: BRL
+The Altitude Weather for 3000 feet is: 2610 28
+Wind Direction: 26 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2815+13
+Wind Direction: 28 degrees 
+Wind Speed: 15 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2716+08
+Wind Direction: 27 degrees 
+Wind Speed: 16 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2722+01
+Wind Direction: 27 degrees 
+Wind Speed: 22 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2640-09
+Wind Direction: 26 degrees 
+Wind Speed: 140 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2647-21
+Wind Direction: 26 degrees 
+Wind Speed: 147 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 275636 
+Wind Direction: 27 degrees 
+Wind Speed: 156 knots 
+Wind Temperature: -36
+
+The Altitude Weather for 34000 feet is: 277344 
+Wind Direction: 27 degrees 
+Wind Speed: 173 knots 
+Wind Temperature: -44
+
+The Altitude Weather for 36000 feet is:  278154
+Wind Direction:  2 degrees 
+Wind Speed: 178 knots 
+Wind Temperature: -15
+
+
+Station ID: BRO
+The Altitude Weather for 3000 feet is: 1715 19
+Wind Direction: 17 degrees 
+Wind Speed: 15 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 1910+18
+Wind Direction: 19 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 0606+13
+Wind Direction: 06 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 9900+07
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 0309-04
+Wind Direction: 03 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 0312-16
+Wind Direction: 03 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 062130 
+Wind Direction: 06 degrees 
+Wind Speed: 21 knots 
+Wind Temperature: -30
+
+The Altitude Weather for 34000 feet is: 072141 
+Wind Direction: 07 degrees 
+Wind Speed: 21 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  051652
+Wind Direction:  0 degrees 
+Wind Speed: 151 knots 
+Wind Temperature: -65
+
+
+Station ID: BUF
+The Altitude Weather for 3000 feet is: 2527 28
+Wind Direction: 25 degrees 
+Wind Speed: 27 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2826+10
+Wind Direction: 28 degrees 
+Wind Speed: 26 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2729+06
+Wind Direction: 27 degrees 
+Wind Speed: 29 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2631+01
+Wind Direction: 26 degrees 
+Wind Speed: 31 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2742-11
+Wind Direction: 27 degrees 
+Wind Speed: 142 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2749-23
+Wind Direction: 27 degrees 
+Wind Speed: 149 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 275439 
+Wind Direction: 27 degrees 
+Wind Speed: 154 knots 
+Wind Temperature: -39
+
+The Altitude Weather for 34000 feet is: 275647 
+Wind Direction: 27 degrees 
+Wind Speed: 156 knots 
+Wind Temperature: -47
+
+The Altitude Weather for 36000 feet is:  277850
+Wind Direction:  2 degrees 
+Wind Speed: 177 knots 
+Wind Temperature: -85
+
+
+Station ID: CAE
+The Altitude Weather for 3000 feet is: 2212 24
+Wind Direction: 22 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2414+16
+Wind Direction: 24 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2514+11
+Wind Direction: 25 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2720+05
+Wind Direction: 27 degrees 
+Wind Speed: 20 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2724-05
+Wind Direction: 27 degrees 
+Wind Speed: 24 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2926-15
+Wind Direction: 29 degrees 
+Wind Speed: 26 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 283530 
+Wind Direction: 28 degrees 
+Wind Speed: 35 knots 
+Wind Temperature: -30
+
+The Altitude Weather for 34000 feet is: 322840 
+Wind Direction: 32 degrees 
+Wind Speed: 28 knots 
+Wind Temperature: -40
+
+The Altitude Weather for 36000 feet is:  273653
+Wind Direction:  2 degrees 
+Wind Speed: 173 knots 
+Wind Temperature: -65
+
+
+Station ID: CAR
+The Altitude Weather for 3000 feet is: 2209 25
+Wind Direction: 22 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2514+06
+Wind Direction: 25 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 2615+01
+Wind Direction: 26 degrees 
+Wind Speed: 15 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2624-02
+Wind Direction: 26 degrees 
+Wind Speed: 24 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2733-13
+Wind Direction: 27 degrees 
+Wind Speed: 33 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2736-26
+Wind Direction: 27 degrees 
+Wind Speed: 36 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 284541 
+Wind Direction: 28 degrees 
+Wind Speed: 145 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 34000 feet is: 285149 
+Wind Direction: 28 degrees 
+Wind Speed: 151 knots 
+Wind Temperature: -49
+
+The Altitude Weather for 36000 feet is:  285555
+Wind Direction:  2 degrees 
+Wind Speed: 185 knots 
+Wind Temperature: -55
+
+
+Station ID: CGI
+The Altitude Weather for 3000 feet is: 9900 30
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 3013+17
+Wind Direction: 30 degrees 
+Wind Speed: 13 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2914+11
+Wind Direction: 29 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2608+05
+Wind Direction: 26 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2817-08
+Wind Direction: 28 degrees 
+Wind Speed: 17 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2843-18
+Wind Direction: 28 degrees 
+Wind Speed: 143 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 265531 
+Wind Direction: 26 degrees 
+Wind Speed: 155 knots 
+Wind Temperature: -31
+
+The Altitude Weather for 34000 feet is: 265542 
+Wind Direction: 26 degrees 
+Wind Speed: 155 knots 
+Wind Temperature: -42
+
+The Altitude Weather for 36000 feet is:  256252
+Wind Direction:  2 degrees 
+Wind Speed: 156 knots 
+Wind Temperature: -25
+
+
+Station ID: CHS
+The Altitude Weather for 3000 feet is: 2312 27
+Wind Direction: 23 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2708+17
+Wind Direction: 27 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2811+11
+Wind Direction: 28 degrees 
+Wind Speed: 11 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2812+06
+Wind Direction: 28 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2819-05
+Wind Direction: 28 degrees 
+Wind Speed: 19 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2918-15
+Wind Direction: 29 degrees 
+Wind Speed: 18 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 302830 
+Wind Direction: 30 degrees 
+Wind Speed: 28 knots 
+Wind Temperature: -30
+
+The Altitude Weather for 34000 feet is: 312340 
+Wind Direction: 31 degrees 
+Wind Speed: 23 knots 
+Wind Temperature: -40
+
+The Altitude Weather for 36000 feet is:  302353
+Wind Direction:  3 degrees 
+Wind Speed: 02 knots 
+Wind Temperature: -35
+
+
+Station ID: CLE
+The Altitude Weather for 3000 feet is: 2719 27
+Wind Direction: 27 degrees 
+Wind Speed: 19 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2726+12
+Wind Direction: 27 degrees 
+Wind Speed: 26 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2827+07
+Wind Direction: 28 degrees 
+Wind Speed: 27 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2834+02
+Wind Direction: 28 degrees 
+Wind Speed: 34 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2842-10
+Wind Direction: 28 degrees 
+Wind Speed: 142 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2747-22
+Wind Direction: 27 degrees 
+Wind Speed: 147 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 305738 
+Wind Direction: 30 degrees 
+Wind Speed: 157 knots 
+Wind Temperature: -38
+
+The Altitude Weather for 34000 feet is: 297546 
+Wind Direction: 29 degrees 
+Wind Speed: 175 knots 
+Wind Temperature: -46
+
+The Altitude Weather for 36000 feet is:  289052
+Wind Direction:  2 degrees 
+Wind Speed: 189 knots 
+Wind Temperature: -5
+
+
+Station ID: CLL
+The Altitude Weather for 3000 feet is: 9900 99
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 9900+18
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 0714+13
+Wind Direction: 07 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 0716+08
+Wind Direction: 07 degrees 
+Wind Speed: 16 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 3408-05
+Wind Direction: 34 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 0312-16
+Wind Direction: 03 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 041631 
+Wind Direction: 04 degrees 
+Wind Speed: 16 knots 
+Wind Temperature: -31
+
+The Altitude Weather for 34000 feet is: 070740 
+Wind Direction: 07 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: -40
+
+The Altitude Weather for 36000 feet is:  220552
+Wind Direction:  2 degrees 
+Wind Speed: 20 knots 
+Wind Temperature: -55
+
+
+Station ID: CMH
+The Altitude Weather for 3000 feet is: 2819 29
+Wind Direction: 28 degrees 
+Wind Speed: 19 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2926+14
+Wind Direction: 29 degrees 
+Wind Speed: 26 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2838+10
+Wind Direction: 28 degrees 
+Wind Speed: 138 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2842+03
+Wind Direction: 28 degrees 
+Wind Speed: 142 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2839-09
+Wind Direction: 28 degrees 
+Wind Speed: 139 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2842-21
+Wind Direction: 28 degrees 
+Wind Speed: 142 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 295635 
+Wind Direction: 29 degrees 
+Wind Speed: 156 knots 
+Wind Temperature: -35
+
+The Altitude Weather for 34000 feet is: 288743 
+Wind Direction: 28 degrees 
+Wind Speed: 187 knots 
+Wind Temperature: -43
+
+The Altitude Weather for 36000 feet is:  289453
+Wind Direction:  2 degrees 
+Wind Speed: 189 knots 
+Wind Temperature: -45
+
+
+Station ID: COU
+The Altitude Weather for 3000 feet is: 9900 29
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2911+16
+Wind Direction: 29 degrees 
+Wind Speed: 11 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 3022+11
+Wind Direction: 30 degrees 
+Wind Speed: 22 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2931+04
+Wind Direction: 29 degrees 
+Wind Speed: 31 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2738-09
+Wind Direction: 27 degrees 
+Wind Speed: 138 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2731-19
+Wind Direction: 27 degrees 
+Wind Speed: 31 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 265034 
+Wind Direction: 26 degrees 
+Wind Speed: 150 knots 
+Wind Temperature: -34
+
+The Altitude Weather for 34000 feet is: 266642 
+Wind Direction: 26 degrees 
+Wind Speed: 166 knots 
+Wind Temperature: -42
+
+The Altitude Weather for 36000 feet is:  277453
+Wind Direction:  2 degrees 
+Wind Speed: 177 knots 
+Wind Temperature: -45
+
+
+Station ID: CRP
+The Altitude Weather for 3000 feet is: 1610 10
+Wind Direction: 16 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 1007+18
+Wind Direction: 10 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 0211+13
+Wind Direction: 02 degrees 
+Wind Speed: 11 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 0313+08
+Wind Direction: 03 degrees 
+Wind Speed: 13 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 0209-05
+Wind Direction: 02 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 0216-18
+Wind Direction: 02 degrees 
+Wind Speed: 16 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 330629 
+Wind Direction: 33 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: -29
+
+The Altitude Weather for 34000 feet is: 120540 
+Wind Direction: 12 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: -40
+
+The Altitude Weather for 36000 feet is:  100852
+Wind Direction:  1 degrees 
+Wind Speed: 00 knots 
+Wind Temperature: -85
+
+
+Station ID: CRW
+The Altitude Weather for 3000 feet is: 2514 28
+Wind Direction: 25 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2822+15
+Wind Direction: 28 degrees 
+Wind Speed: 22 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 3027+11
+Wind Direction: 30 degrees 
+Wind Speed: 27 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 3036+05
+Wind Direction: 30 degrees 
+Wind Speed: 36 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2837-08
+Wind Direction: 28 degrees 
+Wind Speed: 137 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2849-20
+Wind Direction: 28 degrees 
+Wind Speed: 149 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 296233 
+Wind Direction: 29 degrees 
+Wind Speed: 162 knots 
+Wind Temperature: -33
+
+The Altitude Weather for 34000 feet is: 298241 
+Wind Direction: 29 degrees 
+Wind Speed: 182 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  277452
+Wind Direction:  2 degrees 
+Wind Speed: 177 knots 
+Wind Temperature: -45
+
+
+Station ID: CSG
+The Altitude Weather for 3000 feet is: 2812 33
+Wind Direction: 28 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 3315+17
+Wind Direction: 33 degrees 
+Wind Speed: 15 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 3213+12
+Wind Direction: 32 degrees 
+Wind Speed: 13 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2510+07
+Wind Direction: 25 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2914-06
+Wind Direction: 29 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2617-16
+Wind Direction: 26 degrees 
+Wind Speed: 17 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 231330 
+Wind Direction: 23 degrees 
+Wind Speed: 13 knots 
+Wind Temperature: -30
+
+The Altitude Weather for 34000 feet is: 251640 
+Wind Direction: 25 degrees 
+Wind Speed: 16 knots 
+Wind Temperature: -40
+
+The Altitude Weather for 36000 feet is:  272053
+Wind Direction:  2 degrees 
+Wind Speed: 172 knots 
+Wind Temperature: -5
+
+
+Station ID: CVG
+The Altitude Weather for 3000 feet is: 2913 30
+Wind Direction: 29 degrees 
+Wind Speed: 13 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 3025+17
+Wind Direction: 30 degrees 
+Wind Speed: 25 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2830+11
+Wind Direction: 28 degrees 
+Wind Speed: 30 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2832+04
+Wind Direction: 28 degrees 
+Wind Speed: 32 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2734-09
+Wind Direction: 27 degrees 
+Wind Speed: 34 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2747-21
+Wind Direction: 27 degrees 
+Wind Speed: 147 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 296633 
+Wind Direction: 29 degrees 
+Wind Speed: 166 knots 
+Wind Temperature: -33
+
+The Altitude Weather for 34000 feet is: 288541 
+Wind Direction: 28 degrees 
+Wind Speed: 185 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  278352
+Wind Direction:  2 degrees 
+Wind Speed: 178 knots 
+Wind Temperature: -35
+
+
+Station ID: CZI
+The Altitude Weather for 3000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 2912+13
+Wind Direction: 29 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2921+06
+Wind Direction: 29 degrees 
+Wind Speed: 21 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 3039-11
+Wind Direction: 30 degrees 
+Wind Speed: 139 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 3042-25
+Wind Direction: 30 degrees 
+Wind Speed: 142 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 304740 
+Wind Direction: 30 degrees 
+Wind Speed: 147 knots 
+Wind Temperature: -40
+
+The Altitude Weather for 34000 feet is: 305248 
+Wind Direction: 30 degrees 
+Wind Speed: 152 knots 
+Wind Temperature: -48
+
+The Altitude Weather for 36000 feet is:  306055
+Wind Direction:  3 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: -5
+
+
+Station ID: DAL
+The Altitude Weather for 3000 feet is: 9900 99
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 9900+20
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 2
+
+The Altitude Weather for 9000 feet is: 9900+14
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 9900+08
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 3118-05
+Wind Direction: 31 degrees 
+Wind Speed: 18 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 3215-16
+Wind Direction: 32 degrees 
+Wind Speed: 15 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 301131 
+Wind Direction: 30 degrees 
+Wind Speed: 11 knots 
+Wind Temperature: -31
+
+The Altitude Weather for 34000 feet is: 281240 
+Wind Direction: 28 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: -40
+
+The Altitude Weather for 36000 feet is:  281752
+Wind Direction:  2 degrees 
+Wind Speed: 181 knots 
+Wind Temperature: -75
+
+
+Station ID: DBQ
+The Altitude Weather for 3000 feet is: 2717 29
+Wind Direction: 27 degrees 
+Wind Speed: 17 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2935+11
+Wind Direction: 29 degrees 
+Wind Speed: 35 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2741+06
+Wind Direction: 27 degrees 
+Wind Speed: 141 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2743+00
+Wind Direction: 27 degrees 
+Wind Speed: 143 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2741-10
+Wind Direction: 27 degrees 
+Wind Speed: 141 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2744-23
+Wind Direction: 27 degrees 
+Wind Speed: 144 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 266137 
+Wind Direction: 26 degrees 
+Wind Speed: 161 knots 
+Wind Temperature: -37
+
+The Altitude Weather for 34000 feet is: 277547 
+Wind Direction: 27 degrees 
+Wind Speed: 175 knots 
+Wind Temperature: -47
+
+The Altitude Weather for 36000 feet is:  289754
+Wind Direction:  2 degrees 
+Wind Speed: 189 knots 
+Wind Temperature: -75
+
+
+Station ID: DEN
+The Altitude Weather for 3000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 0107+16
+Wind Direction: 01 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 3015+09
+Wind Direction: 30 degrees 
+Wind Speed: 15 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 3024-09
+Wind Direction: 30 degrees 
+Wind Speed: 24 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 3034-22
+Wind Direction: 30 degrees 
+Wind Speed: 34 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 294837 
+Wind Direction: 29 degrees 
+Wind Speed: 148 knots 
+Wind Temperature: -37
+
+The Altitude Weather for 34000 feet is: 295244 
+Wind Direction: 29 degrees 
+Wind Speed: 152 knots 
+Wind Temperature: -44
+
+The Altitude Weather for 36000 feet is:  295752
+Wind Direction:  2 degrees 
+Wind Speed: 195 knots 
+Wind Temperature: -75
+
+
+Station ID: DIK
+The Altitude Weather for 3000 feet is:      32
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 3211+09
+Wind Direction: 32 degrees 
+Wind Speed: 11 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 3231+01
+Wind Direction: 32 degrees 
+Wind Speed: 31 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 3138-02
+Wind Direction: 31 degrees 
+Wind Speed: 138 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 3147-13
+Wind Direction: 31 degrees 
+Wind Speed: 147 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 3154-25
+Wind Direction: 31 degrees 
+Wind Speed: 154 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 306041 
+Wind Direction: 30 degrees 
+Wind Speed: 160 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 34000 feet is: 306549 
+Wind Direction: 30 degrees 
+Wind Speed: 165 knots 
+Wind Temperature: -49
+
+The Altitude Weather for 36000 feet is:  305854
+Wind Direction:  3 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: -85
+
+
+Station ID: DLH
+The Altitude Weather for 3000 feet is: 2925 30
+Wind Direction: 29 degrees 
+Wind Speed: 25 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 3035+02
+Wind Direction: 30 degrees 
+Wind Speed: 35 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 3031-01
+Wind Direction: 30 degrees 
+Wind Speed: 31 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 3036-05
+Wind Direction: 30 degrees 
+Wind Speed: 36 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 3048-17
+Wind Direction: 30 degrees 
+Wind Speed: 148 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 3048-28
+Wind Direction: 30 degrees 
+Wind Speed: 148 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 286741 
+Wind Direction: 28 degrees 
+Wind Speed: 167 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 34000 feet is: 287247 
+Wind Direction: 28 degrees 
+Wind Speed: 172 knots 
+Wind Temperature: -47
+
+The Altitude Weather for 36000 feet is:  295347
+Wind Direction:  2 degrees 
+Wind Speed: 195 knots 
+Wind Temperature: -34
+
+
+Station ID: DLN
+The Altitude Weather for 3000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 2409+14
+Wind Direction: 24 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2716+06
+Wind Direction: 27 degrees 
+Wind Speed: 16 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2828-10
+Wind Direction: 28 degrees 
+Wind Speed: 28 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2840-23
+Wind Direction: 28 degrees 
+Wind Speed: 140 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 295841 
+Wind Direction: 29 degrees 
+Wind Speed: 158 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 34000 feet is: 296049 
+Wind Direction: 29 degrees 
+Wind Speed: 160 knots 
+Wind Temperature: -49
+
+The Altitude Weather for 36000 feet is:  296356
+Wind Direction:  2 degrees 
+Wind Speed: 196 knots 
+Wind Temperature: -35
+
+
+Station ID: DRT
+The Altitude Weather for 3000 feet is: 1508 16
+Wind Direction: 15 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 1613+22
+Wind Direction: 16 degrees 
+Wind Speed: 13 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 9000 feet is: 1005+16
+Wind Direction: 10 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 0814+09
+Wind Direction: 08 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 0108-04
+Wind Direction: 01 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 0314-16
+Wind Direction: 03 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 061931 
+Wind Direction: 06 degrees 
+Wind Speed: 19 knots 
+Wind Temperature: -31
+
+The Altitude Weather for 34000 feet is: 061841 
+Wind Direction: 06 degrees 
+Wind Speed: 18 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  140652
+Wind Direction:  1 degrees 
+Wind Speed: 140 knots 
+Wind Temperature: -65
+
+
+Station ID: DSM
+The Altitude Weather for 3000 feet is: 3009 27
+Wind Direction: 30 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2719+13
+Wind Direction: 27 degrees 
+Wind Speed: 19 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2726+08
+Wind Direction: 27 degrees 
+Wind Speed: 26 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2834+01
+Wind Direction: 28 degrees 
+Wind Speed: 34 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 3143-11
+Wind Direction: 31 degrees 
+Wind Speed: 143 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2929-22
+Wind Direction: 29 degrees 
+Wind Speed: 29 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 275637 
+Wind Direction: 27 degrees 
+Wind Speed: 156 knots 
+Wind Temperature: -37
+
+The Altitude Weather for 34000 feet is: 267346 
+Wind Direction: 26 degrees 
+Wind Speed: 173 knots 
+Wind Temperature: -46
+
+The Altitude Weather for 36000 feet is:  268954
+Wind Direction:  2 degrees 
+Wind Speed: 168 knots 
+Wind Temperature: -95
+
+
+Station ID: ECK
+The Altitude Weather for 3000 feet is: 2618 26
+Wind Direction: 26 degrees 
+Wind Speed: 18 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2622+09
+Wind Direction: 26 degrees 
+Wind Speed: 22 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 2833+06
+Wind Direction: 28 degrees 
+Wind Speed: 33 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2737+00
+Wind Direction: 27 degrees 
+Wind Speed: 137 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2851-10
+Wind Direction: 28 degrees 
+Wind Speed: 151 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2856-22
+Wind Direction: 28 degrees 
+Wind Speed: 156 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 295738 
+Wind Direction: 29 degrees 
+Wind Speed: 157 knots 
+Wind Temperature: -38
+
+The Altitude Weather for 34000 feet is: 297449 
+Wind Direction: 29 degrees 
+Wind Speed: 174 knots 
+Wind Temperature: -49
+
+The Altitude Weather for 36000 feet is:  287854
+Wind Direction:  2 degrees 
+Wind Speed: 187 knots 
+Wind Temperature: -85
+
+
+Station ID: EKN
+The Altitude Weather for 3000 feet is:      28
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2824+15
+Wind Direction: 28 degrees 
+Wind Speed: 24 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 3034+10
+Wind Direction: 30 degrees 
+Wind Speed: 34 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 3041+04
+Wind Direction: 30 degrees 
+Wind Speed: 141 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2839-07
+Wind Direction: 28 degrees 
+Wind Speed: 139 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2746-21
+Wind Direction: 27 degrees 
+Wind Speed: 146 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 276333 
+Wind Direction: 27 degrees 
+Wind Speed: 163 knots 
+Wind Temperature: -33
+
+The Altitude Weather for 34000 feet is: 288741 
+Wind Direction: 28 degrees 
+Wind Speed: 187 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  278352
+Wind Direction:  2 degrees 
+Wind Speed: 178 knots 
+Wind Temperature: -35
+
+
+Station ID: ELP
+The Altitude Weather for 3000 feet is:      99
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 9900   
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 9900+18
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 3609+12
+Wind Direction: 36 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: -1
+
+The Altitude Weather for 18000 feet is: 3240-07
+Wind Direction: 32 degrees 
+Wind Speed: 140 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 3167-16
+Wind Direction: 31 degrees 
+Wind Speed: 167 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 279830 
+Wind Direction: 27 degrees 
+Wind Speed: 198 knots 
+Wind Temperature: -30
+
+The Altitude Weather for 34000 feet is: 790141 
+Wind Direction: 29 degrees 
+Wind Speed: 01 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  750752
+Wind Direction:  7 degrees 
+Wind Speed: 150 knots 
+Wind Temperature: -75
+
+
+Station ID: ELY
+The Altitude Weather for 3000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 2106+21
+Wind Direction: 21 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 12000 feet is: 2208+12
+Wind Direction: 22 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: -1
+
+The Altitude Weather for 18000 feet is: 9900-09
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2810-19
+Wind Direction: 28 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 292136 
+Wind Direction: 29 degrees 
+Wind Speed: 21 knots 
+Wind Temperature: -36
+
+The Altitude Weather for 34000 feet is: 293145 
+Wind Direction: 29 degrees 
+Wind Speed: 31 knots 
+Wind Temperature: -45
+
+The Altitude Weather for 36000 feet is:  274053
+Wind Direction:  2 degrees 
+Wind Speed: 174 knots 
+Wind Temperature: -5
+
+
+Station ID: EMI
+The Altitude Weather for 3000 feet is: 2711 28
+Wind Direction: 27 degrees 
+Wind Speed: 11 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2817+15
+Wind Direction: 28 degrees 
+Wind Speed: 17 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2827+08
+Wind Direction: 28 degrees 
+Wind Speed: 27 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2730+03
+Wind Direction: 27 degrees 
+Wind Speed: 30 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2840-08
+Wind Direction: 28 degrees 
+Wind Speed: 140 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2755-21
+Wind Direction: 27 degrees 
+Wind Speed: 155 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 276634 
+Wind Direction: 27 degrees 
+Wind Speed: 166 knots 
+Wind Temperature: -34
+
+The Altitude Weather for 34000 feet is: 277342 
+Wind Direction: 27 degrees 
+Wind Speed: 173 knots 
+Wind Temperature: -42
+
+The Altitude Weather for 36000 feet is:  287252
+Wind Direction:  2 degrees 
+Wind Speed: 187 knots 
+Wind Temperature: -25
+
+
+Station ID: EVV
+The Altitude Weather for 3000 feet is: 2808 31
+Wind Direction: 28 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 3116+17
+Wind Direction: 31 degrees 
+Wind Speed: 16 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2817+12
+Wind Direction: 28 degrees 
+Wind Speed: 17 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2813+05
+Wind Direction: 28 degrees 
+Wind Speed: 13 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2524-08
+Wind Direction: 25 degrees 
+Wind Speed: 24 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2848-18
+Wind Direction: 28 degrees 
+Wind Speed: 148 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 277132 
+Wind Direction: 27 degrees 
+Wind Speed: 171 knots 
+Wind Temperature: -32
+
+The Altitude Weather for 34000 feet is: 277042 
+Wind Direction: 27 degrees 
+Wind Speed: 170 knots 
+Wind Temperature: -42
+
+The Altitude Weather for 36000 feet is:  267252
+Wind Direction:  2 degrees 
+Wind Speed: 167 knots 
+Wind Temperature: -25
+
+
+Station ID: EYW
+The Altitude Weather for 3000 feet is: 1007 09
+Wind Direction: 10 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 0907+17
+Wind Direction: 09 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 1306+12
+Wind Direction: 13 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 0907+07
+Wind Direction: 09 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 9900-08
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 0312-18
+Wind Direction: 03 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 072132 
+Wind Direction: 07 degrees 
+Wind Speed: 21 knots 
+Wind Temperature: -32
+
+The Altitude Weather for 34000 feet is: 092442 
+Wind Direction: 09 degrees 
+Wind Speed: 24 knots 
+Wind Temperature: -42
+
+The Altitude Weather for 36000 feet is:  072853
+Wind Direction:  0 degrees 
+Wind Speed: 172 knots 
+Wind Temperature: -85
+
+
+Station ID: FAT
+The Altitude Weather for 3000 feet is: 3408 34
+Wind Direction: 34 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 3407+23
+Wind Direction: 34 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 9000 feet is: 2707+17
+Wind Direction: 27 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2209+10
+Wind Direction: 22 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: -1
+
+The Altitude Weather for 18000 feet is: 9900-06
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 9900-17
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 220735 
+Wind Direction: 22 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: -35
+
+The Altitude Weather for 34000 feet is: 221444 
+Wind Direction: 22 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: -44
+
+The Altitude Weather for 36000 feet is:  232952
+Wind Direction:  2 degrees 
+Wind Speed: 32 knots 
+Wind Temperature: -95
+
+
+Station ID: GPI
+The Altitude Weather for 3000 feet is:      27
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2705+16
+Wind Direction: 27 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2713+09
+Wind Direction: 27 degrees 
+Wind Speed: 13 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2624+02
+Wind Direction: 26 degrees 
+Wind Speed: 24 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2736-12
+Wind Direction: 27 degrees 
+Wind Speed: 36 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2844-24
+Wind Direction: 28 degrees 
+Wind Speed: 144 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 284240 
+Wind Direction: 28 degrees 
+Wind Speed: 142 knots 
+Wind Temperature: -40
+
+The Altitude Weather for 34000 feet is: 284449 
+Wind Direction: 28 degrees 
+Wind Speed: 144 knots 
+Wind Temperature: -49
+
+The Altitude Weather for 36000 feet is:  295157
+Wind Direction:  2 degrees 
+Wind Speed: 195 knots 
+Wind Temperature: -15
+
+
+Station ID: FLO
+The Altitude Weather for 3000 feet is: 2312 24
+Wind Direction: 23 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2413+16
+Wind Direction: 24 degrees 
+Wind Speed: 13 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2517+11
+Wind Direction: 25 degrees 
+Wind Speed: 17 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2825+06
+Wind Direction: 28 degrees 
+Wind Speed: 25 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2829-05
+Wind Direction: 28 degrees 
+Wind Speed: 29 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2825-16
+Wind Direction: 28 degrees 
+Wind Speed: 25 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 293330 
+Wind Direction: 29 degrees 
+Wind Speed: 33 knots 
+Wind Temperature: -30
+
+The Altitude Weather for 34000 feet is: 313240 
+Wind Direction: 31 degrees 
+Wind Speed: 32 knots 
+Wind Temperature: -40
+
+The Altitude Weather for 36000 feet is:  283453
+Wind Direction:  2 degrees 
+Wind Speed: 183 knots 
+Wind Temperature: -45
+
+
+Station ID: FMN
+The Altitude Weather for 3000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 9900+21
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 2
+
+The Altitude Weather for 12000 feet is: 9900+12
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: -1
+
+The Altitude Weather for 18000 feet is: 3412-09
+Wind Direction: 34 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 3312-19
+Wind Direction: 33 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 282833 
+Wind Direction: 28 degrees 
+Wind Speed: 28 knots 
+Wind Temperature: -33
+
+The Altitude Weather for 34000 feet is: 274541 
+Wind Direction: 27 degrees 
+Wind Speed: 145 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  264453
+Wind Direction:  2 degrees 
+Wind Speed: 164 knots 
+Wind Temperature: -45
+
+
+Station ID: FOT
+The Altitude Weather for 3000 feet is: 0115 01
+Wind Direction: 01 degrees 
+Wind Speed: 15 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 0105+20
+Wind Direction: 01 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 9000 feet is: 2106+15
+Wind Direction: 21 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2112+08
+Wind Direction: 21 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2331-07
+Wind Direction: 23 degrees 
+Wind Speed: 31 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2338-20
+Wind Direction: 23 degrees 
+Wind Speed: 138 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 254036 
+Wind Direction: 25 degrees 
+Wind Speed: 140 knots 
+Wind Temperature: -36
+
+The Altitude Weather for 34000 feet is: 254846 
+Wind Direction: 25 degrees 
+Wind Speed: 148 knots 
+Wind Temperature: -46
+
+The Altitude Weather for 36000 feet is:  235255
+Wind Direction:  2 degrees 
+Wind Speed: 35 knots 
+Wind Temperature: -25
+
+
+Station ID: FSD
+The Altitude Weather for 3000 feet is: 3221 32
+Wind Direction: 32 degrees 
+Wind Speed: 21 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 3233+08
+Wind Direction: 32 degrees 
+Wind Speed: 33 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 3131+05
+Wind Direction: 31 degrees 
+Wind Speed: 31 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 3143+00
+Wind Direction: 31 degrees 
+Wind Speed: 143 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 3054-12
+Wind Direction: 30 degrees 
+Wind Speed: 154 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 3064-23
+Wind Direction: 30 degrees 
+Wind Speed: 164 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 296837 
+Wind Direction: 29 degrees 
+Wind Speed: 168 knots 
+Wind Temperature: -37
+
+The Altitude Weather for 34000 feet is: 267145 
+Wind Direction: 26 degrees 
+Wind Speed: 171 knots 
+Wind Temperature: -45
+
+The Altitude Weather for 36000 feet is:  266755
+Wind Direction:  2 degrees 
+Wind Speed: 166 knots 
+Wind Temperature: -75
+
+
+Station ID: FSM
+The Altitude Weather for 3000 feet is: 1906 29
+Wind Direction: 19 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2918+20
+Wind Direction: 29 degrees 
+Wind Speed: 18 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 9000 feet is: 2721+14
+Wind Direction: 27 degrees 
+Wind Speed: 21 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2722+06
+Wind Direction: 27 degrees 
+Wind Speed: 22 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2828-08
+Wind Direction: 28 degrees 
+Wind Speed: 28 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2829-15
+Wind Direction: 28 degrees 
+Wind Speed: 29 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 272631 
+Wind Direction: 27 degrees 
+Wind Speed: 26 knots 
+Wind Temperature: -31
+
+The Altitude Weather for 34000 feet is: 262641 
+Wind Direction: 26 degrees 
+Wind Speed: 26 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  283352
+Wind Direction:  2 degrees 
+Wind Speed: 183 knots 
+Wind Temperature: -35
+
+
+Station ID: FWA
+The Altitude Weather for 3000 feet is: 2916 30
+Wind Direction: 29 degrees 
+Wind Speed: 16 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 3030+14
+Wind Direction: 30 degrees 
+Wind Speed: 30 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2933+08
+Wind Direction: 29 degrees 
+Wind Speed: 33 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2937+02
+Wind Direction: 29 degrees 
+Wind Speed: 137 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2935-09
+Wind Direction: 29 degrees 
+Wind Speed: 35 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2837-21
+Wind Direction: 28 degrees 
+Wind Speed: 137 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 295336 
+Wind Direction: 29 degrees 
+Wind Speed: 153 knots 
+Wind Temperature: -36
+
+The Altitude Weather for 34000 feet is: 298044 
+Wind Direction: 29 degrees 
+Wind Speed: 180 knots 
+Wind Temperature: -44
+
+The Altitude Weather for 36000 feet is:  289354
+Wind Direction:  2 degrees 
+Wind Speed: 189 knots 
+Wind Temperature: -35
+
+
+Station ID: GAG
+The Altitude Weather for 3000 feet is:      24
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2411+22
+Wind Direction: 24 degrees 
+Wind Speed: 11 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 9000 feet is: 2607+16
+Wind Direction: 26 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 3305+09
+Wind Direction: 33 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 3008-07
+Wind Direction: 30 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2926-18
+Wind Direction: 29 degrees 
+Wind Speed: 26 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 284432 
+Wind Direction: 28 degrees 
+Wind Speed: 144 knots 
+Wind Temperature: -32
+
+The Altitude Weather for 34000 feet is: 274441 
+Wind Direction: 27 degrees 
+Wind Speed: 144 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  284553
+Wind Direction:  2 degrees 
+Wind Speed: 184 knots 
+Wind Temperature: -55
+
+
+Station ID: GCK
+The Altitude Weather for 3000 feet is:      23
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2313+23
+Wind Direction: 23 degrees 
+Wind Speed: 13 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 9000 feet is: 3318+17
+Wind Direction: 33 degrees 
+Wind Speed: 18 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2914+11
+Wind Direction: 29 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: -1
+
+The Altitude Weather for 18000 feet is: 3222-08
+Wind Direction: 32 degrees 
+Wind Speed: 22 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 3032-21
+Wind Direction: 30 degrees 
+Wind Speed: 32 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 294834 
+Wind Direction: 29 degrees 
+Wind Speed: 148 knots 
+Wind Temperature: -34
+
+The Altitude Weather for 34000 feet is: 285742 
+Wind Direction: 28 degrees 
+Wind Speed: 157 knots 
+Wind Temperature: -42
+
+The Altitude Weather for 36000 feet is:  276152
+Wind Direction:  2 degrees 
+Wind Speed: 176 knots 
+Wind Temperature: -15
+
+
+Station ID: GEG
+The Altitude Weather for 3000 feet is:      24
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2405+17
+Wind Direction: 24 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2217+10
+Wind Direction: 22 degrees 
+Wind Speed: 17 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2517+03
+Wind Direction: 25 degrees 
+Wind Speed: 17 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2529-11
+Wind Direction: 25 degrees 
+Wind Speed: 29 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2632-24
+Wind Direction: 26 degrees 
+Wind Speed: 32 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 264440 
+Wind Direction: 26 degrees 
+Wind Speed: 144 knots 
+Wind Temperature: -40
+
+The Altitude Weather for 34000 feet is: 275148 
+Wind Direction: 27 degrees 
+Wind Speed: 151 knots 
+Wind Temperature: -48
+
+The Altitude Weather for 36000 feet is:  275456
+Wind Direction:  2 degrees 
+Wind Speed: 175 knots 
+Wind Temperature: -45
+
+
+Station ID: GFK
+The Altitude Weather for 3000 feet is: 3225 33
+Wind Direction: 32 degrees 
+Wind Speed: 25 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 3331+02
+Wind Direction: 33 degrees 
+Wind Speed: 31 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 3340+00
+Wind Direction: 33 degrees 
+Wind Speed: 140 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 3339-03
+Wind Direction: 33 degrees 
+Wind Speed: 139 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 3338-15
+Wind Direction: 33 degrees 
+Wind Speed: 138 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 3336-27
+Wind Direction: 33 degrees 
+Wind Speed: 36 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 352843 
+Wind Direction: 35 degrees 
+Wind Speed: 28 knots 
+Wind Temperature: -43
+
+The Altitude Weather for 34000 feet is: 352552 
+Wind Direction: 35 degrees 
+Wind Speed: 25 knots 
+Wind Temperature: -52
+
+The Altitude Weather for 36000 feet is:  313848
+Wind Direction:  3 degrees 
+Wind Speed: 13 knots 
+Wind Temperature: -84
+
+
+Station ID: GGW
+The Altitude Weather for 3000 feet is:      31
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 3106+12
+Wind Direction: 31 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2917+06
+Wind Direction: 29 degrees 
+Wind Speed: 17 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 3129-01
+Wind Direction: 31 degrees 
+Wind Speed: 29 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 3139-14
+Wind Direction: 31 degrees 
+Wind Speed: 139 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 3039-26
+Wind Direction: 30 degrees 
+Wind Speed: 139 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 304941 
+Wind Direction: 30 degrees 
+Wind Speed: 149 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 34000 feet is: 295351 
+Wind Direction: 29 degrees 
+Wind Speed: 153 knots 
+Wind Temperature: -51
+
+The Altitude Weather for 36000 feet is:  305656
+Wind Direction:  3 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: -65
+
+
+Station ID: GJT
+The Altitude Weather for 3000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 9900+19
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 3011+11
+Wind Direction: 30 degrees 
+Wind Speed: 11 knots 
+Wind Temperature: -1
+
+The Altitude Weather for 18000 feet is: 3227-09
+Wind Direction: 32 degrees 
+Wind Speed: 27 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 3129-20
+Wind Direction: 31 degrees 
+Wind Speed: 29 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 313736 
+Wind Direction: 31 degrees 
+Wind Speed: 137 knots 
+Wind Temperature: -36
+
+The Altitude Weather for 34000 feet is: 294444 
+Wind Direction: 29 degrees 
+Wind Speed: 144 knots 
+Wind Temperature: -44
+
+The Altitude Weather for 36000 feet is:  285152
+Wind Direction:  2 degrees 
+Wind Speed: 185 knots 
+Wind Temperature: -15
+
+
+Station ID: GLD
+The Altitude Weather for 3000 feet is:      01
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 0122   
+Wind Direction: 01 degrees 
+Wind Speed: 22 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 3620+15
+Wind Direction: 36 degrees 
+Wind Speed: 20 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 3221+09
+Wind Direction: 32 degrees 
+Wind Speed: 21 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2929-10
+Wind Direction: 29 degrees 
+Wind Speed: 29 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2934-22
+Wind Direction: 29 degrees 
+Wind Speed: 34 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 295137 
+Wind Direction: 29 degrees 
+Wind Speed: 151 knots 
+Wind Temperature: -37
+
+The Altitude Weather for 34000 feet is: 286344 
+Wind Direction: 28 degrees 
+Wind Speed: 163 knots 
+Wind Temperature: -44
+
+The Altitude Weather for 36000 feet is:  285751
+Wind Direction:  2 degrees 
+Wind Speed: 185 knots 
+Wind Temperature: -75
+
+
+Station ID: GRB
+The Altitude Weather for 3000 feet is: 2827 28
+Wind Direction: 28 degrees 
+Wind Speed: 27 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2828+05
+Wind Direction: 28 degrees 
+Wind Speed: 28 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 2949+03
+Wind Direction: 29 degrees 
+Wind Speed: 149 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2846-02
+Wind Direction: 28 degrees 
+Wind Speed: 146 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2656-12
+Wind Direction: 26 degrees 
+Wind Speed: 156 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2763-24
+Wind Direction: 27 degrees 
+Wind Speed: 163 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 770038 
+Wind Direction: 27 degrees 
+Wind Speed: 00 knots 
+Wind Temperature: -38
+
+The Altitude Weather for 34000 feet is: 771446 
+Wind Direction: 27 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: -46
+
+The Altitude Weather for 36000 feet is:  781555
+Wind Direction:  7 degrees 
+Wind Speed: 181 knots 
+Wind Temperature: -55
+
+
+Station ID: GRI
+The Altitude Weather for 3000 feet is:      34
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 3414+14
+Wind Direction: 34 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 3328+11
+Wind Direction: 33 degrees 
+Wind Speed: 28 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 3235+04
+Wind Direction: 32 degrees 
+Wind Speed: 35 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2950-10
+Wind Direction: 29 degrees 
+Wind Speed: 150 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2856-22
+Wind Direction: 28 degrees 
+Wind Speed: 156 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 264736 
+Wind Direction: 26 degrees 
+Wind Speed: 147 knots 
+Wind Temperature: -36
+
+The Altitude Weather for 34000 feet is: 254744 
+Wind Direction: 25 degrees 
+Wind Speed: 147 knots 
+Wind Temperature: -44
+
+The Altitude Weather for 36000 feet is:  265752
+Wind Direction:  2 degrees 
+Wind Speed: 165 knots 
+Wind Temperature: -75
+
+
+Station ID: GSP
+The Altitude Weather for 3000 feet is: 9900 26
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2608+16
+Wind Direction: 26 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2710+10
+Wind Direction: 27 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 3311+05
+Wind Direction: 33 degrees 
+Wind Speed: 11 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2825-05
+Wind Direction: 28 degrees 
+Wind Speed: 25 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2926-15
+Wind Direction: 29 degrees 
+Wind Speed: 26 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 293131 
+Wind Direction: 29 degrees 
+Wind Speed: 31 knots 
+Wind Temperature: -31
+
+The Altitude Weather for 34000 feet is: 292541 
+Wind Direction: 29 degrees 
+Wind Speed: 25 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  282853
+Wind Direction:  2 degrees 
+Wind Speed: 182 knots 
+Wind Temperature: -85
+
+
+Station ID: GTF
+The Altitude Weather for 3000 feet is:      28
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2810   
+Wind Direction: 28 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 2814+10
+Wind Direction: 28 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2824+03
+Wind Direction: 28 degrees 
+Wind Speed: 24 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2943-13
+Wind Direction: 29 degrees 
+Wind Speed: 143 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2953-24
+Wind Direction: 29 degrees 
+Wind Speed: 153 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 305340 
+Wind Direction: 30 degrees 
+Wind Speed: 153 knots 
+Wind Temperature: -40
+
+The Altitude Weather for 34000 feet is: 315750 
+Wind Direction: 31 degrees 
+Wind Speed: 157 knots 
+Wind Temperature: -50
+
+The Altitude Weather for 36000 feet is:  305857
+Wind Direction:  3 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: -85
+
+
+Station ID: H51
+The Altitude Weather for 3000 feet is: 1905 25
+Wind Direction: 19 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2505+16
+Wind Direction: 25 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 9900+12
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 9900+07
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 9900-05
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 0108-16
+Wind Direction: 01 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 081930 
+Wind Direction: 08 degrees 
+Wind Speed: 19 knots 
+Wind Temperature: -30
+
+The Altitude Weather for 34000 feet is: 081740 
+Wind Direction: 08 degrees 
+Wind Speed: 17 knots 
+Wind Temperature: -40
+
+The Altitude Weather for 36000 feet is:  082052
+Wind Direction:  0 degrees 
+Wind Speed: 182 knots 
+Wind Temperature: -5
+
+
+Station ID: H52
+The Altitude Weather for 3000 feet is: 1908 99
+Wind Direction: 19 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 9900+15
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 9900+11
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2107+07
+Wind Direction: 21 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 1409-06
+Wind Direction: 14 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 1005-16
+Wind Direction: 10 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 081930 
+Wind Direction: 08 degrees 
+Wind Speed: 19 knots 
+Wind Temperature: -30
+
+The Altitude Weather for 34000 feet is: 071641 
+Wind Direction: 07 degrees 
+Wind Speed: 16 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  071853
+Wind Direction:  0 degrees 
+Wind Speed: 171 knots 
+Wind Temperature: -85
+
+
+Station ID: H61
+The Altitude Weather for 3000 feet is: 1606 99
+Wind Direction: 16 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 9900+16
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 1608+10
+Wind Direction: 16 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 9900+06
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 9900-07
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 9900-16
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 082031 
+Wind Direction: 08 degrees 
+Wind Speed: 20 knots 
+Wind Temperature: -31
+
+The Altitude Weather for 34000 feet is: 093241 
+Wind Direction: 09 degrees 
+Wind Speed: 32 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  093752
+Wind Direction:  0 degrees 
+Wind Speed: 193 knots 
+Wind Temperature: -75
+
+
+Station ID: HAT
+The Altitude Weather for 3000 feet is: 2418 27
+Wind Direction: 24 degrees 
+Wind Speed: 18 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2714+15
+Wind Direction: 27 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2815+09
+Wind Direction: 28 degrees 
+Wind Speed: 15 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 3023+05
+Wind Direction: 30 degrees 
+Wind Speed: 23 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2930-06
+Wind Direction: 29 degrees 
+Wind Speed: 30 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2724-16
+Wind Direction: 27 degrees 
+Wind Speed: 24 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 292331 
+Wind Direction: 29 degrees 
+Wind Speed: 23 knots 
+Wind Temperature: -31
+
+The Altitude Weather for 34000 feet is: 283340 
+Wind Direction: 28 degrees 
+Wind Speed: 33 knots 
+Wind Temperature: -40
+
+The Altitude Weather for 36000 feet is:  294853
+Wind Direction:  2 degrees 
+Wind Speed: 194 knots 
+Wind Temperature: -85
+
+
+Station ID: HOU
+The Altitude Weather for 3000 feet is: 9900 04
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 0409+17
+Wind Direction: 04 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 0516+12
+Wind Direction: 05 degrees 
+Wind Speed: 16 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 0518+07
+Wind Direction: 05 degrees 
+Wind Speed: 18 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 0117-05
+Wind Direction: 01 degrees 
+Wind Speed: 17 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 0314-16
+Wind Direction: 03 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 191230 
+Wind Direction: 19 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: -30
+
+The Altitude Weather for 34000 feet is: 251139 
+Wind Direction: 25 degrees 
+Wind Speed: 11 knots 
+Wind Temperature: -39
+
+The Altitude Weather for 36000 feet is:  191152
+Wind Direction:  1 degrees 
+Wind Speed: 191 knots 
+Wind Temperature: -15
+
+
+Station ID: HSV
+The Altitude Weather for 3000 feet is: 3006 29
+Wind Direction: 30 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2910+16
+Wind Direction: 29 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2610+11
+Wind Direction: 26 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2715+06
+Wind Direction: 27 degrees 
+Wind Speed: 15 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2723-05
+Wind Direction: 27 degrees 
+Wind Speed: 23 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2822-16
+Wind Direction: 28 degrees 
+Wind Speed: 22 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 252631 
+Wind Direction: 25 degrees 
+Wind Speed: 26 knots 
+Wind Temperature: -31
+
+The Altitude Weather for 34000 feet is: 262541 
+Wind Direction: 26 degrees 
+Wind Speed: 25 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  242553
+Wind Direction:  2 degrees 
+Wind Speed: 142 knots 
+Wind Temperature: -55
+
+
+Station ID: ICT
+The Altitude Weather for 3000 feet is: 2209 28
+Wind Direction: 22 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2822+21
+Wind Direction: 28 degrees 
+Wind Speed: 22 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 9000 feet is: 2712+16
+Wind Direction: 27 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 3015+08
+Wind Direction: 30 degrees 
+Wind Speed: 15 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 3032-08
+Wind Direction: 30 degrees 
+Wind Speed: 32 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 3030-20
+Wind Direction: 30 degrees 
+Wind Speed: 30 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 293933 
+Wind Direction: 29 degrees 
+Wind Speed: 139 knots 
+Wind Temperature: -33
+
+The Altitude Weather for 34000 feet is: 294942 
+Wind Direction: 29 degrees 
+Wind Speed: 149 knots 
+Wind Temperature: -42
+
+The Altitude Weather for 36000 feet is:  286253
+Wind Direction:  2 degrees 
+Wind Speed: 186 knots 
+Wind Temperature: -25
+
+
+Station ID: ILM
+The Altitude Weather for 3000 feet is: 2217 25
+Wind Direction: 22 degrees 
+Wind Speed: 17 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2511+16
+Wind Direction: 25 degrees 
+Wind Speed: 11 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2713+10
+Wind Direction: 27 degrees 
+Wind Speed: 13 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2923+05
+Wind Direction: 29 degrees 
+Wind Speed: 23 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2929-05
+Wind Direction: 29 degrees 
+Wind Speed: 29 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2824-16
+Wind Direction: 28 degrees 
+Wind Speed: 24 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 303030 
+Wind Direction: 30 degrees 
+Wind Speed: 30 knots 
+Wind Temperature: -30
+
+The Altitude Weather for 34000 feet is: 302640 
+Wind Direction: 30 degrees 
+Wind Speed: 26 knots 
+Wind Temperature: -40
+
+The Altitude Weather for 36000 feet is:  292953
+Wind Direction:  2 degrees 
+Wind Speed: 192 knots 
+Wind Temperature: -95
+
+
+Station ID: IMB
+The Altitude Weather for 3000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 2110+13
+Wind Direction: 21 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2223+06
+Wind Direction: 22 degrees 
+Wind Speed: 23 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2433-10
+Wind Direction: 24 degrees 
+Wind Speed: 33 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2550-22
+Wind Direction: 25 degrees 
+Wind Speed: 150 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 266138 
+Wind Direction: 26 degrees 
+Wind Speed: 161 knots 
+Wind Temperature: -38
+
+The Altitude Weather for 34000 feet is: 265548 
+Wind Direction: 26 degrees 
+Wind Speed: 155 knots 
+Wind Temperature: -48
+
+The Altitude Weather for 36000 feet is:  265855
+Wind Direction:  2 degrees 
+Wind Speed: 165 knots 
+Wind Temperature: -85
+
+
+Station ID: IND
+The Altitude Weather for 3000 feet is: 3010 30
+Wind Direction: 30 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 3026+15
+Wind Direction: 30 degrees 
+Wind Speed: 26 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2931+10
+Wind Direction: 29 degrees 
+Wind Speed: 31 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2830+03
+Wind Direction: 28 degrees 
+Wind Speed: 30 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2730-09
+Wind Direction: 27 degrees 
+Wind Speed: 30 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2834-20
+Wind Direction: 28 degrees 
+Wind Speed: 34 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 296334 
+Wind Direction: 29 degrees 
+Wind Speed: 163 knots 
+Wind Temperature: -34
+
+The Altitude Weather for 34000 feet is: 277843 
+Wind Direction: 27 degrees 
+Wind Speed: 178 knots 
+Wind Temperature: -43
+
+The Altitude Weather for 36000 feet is:  278953
+Wind Direction:  2 degrees 
+Wind Speed: 178 knots 
+Wind Temperature: -95
+
+
+Station ID: INK
+The Altitude Weather for 3000 feet is:      15
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 1508+24
+Wind Direction: 15 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 9000 feet is: 1309+18
+Wind Direction: 13 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 0511+11
+Wind Direction: 05 degrees 
+Wind Speed: 11 knots 
+Wind Temperature: -1
+
+The Altitude Weather for 18000 feet is: 3614-06
+Wind Direction: 36 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 3107-15
+Wind Direction: 31 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 260631 
+Wind Direction: 26 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: -31
+
+The Altitude Weather for 34000 feet is: 260941 
+Wind Direction: 26 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  310953
+Wind Direction:  3 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: -95
+
+
+Station ID: INL
+The Altitude Weather for 3000 feet is: 2933 32
+Wind Direction: 29 degrees 
+Wind Speed: 33 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 3232+01
+Wind Direction: 32 degrees 
+Wind Speed: 32 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 3335-02
+Wind Direction: 33 degrees 
+Wind Speed: 35 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 3234-04
+Wind Direction: 32 degrees 
+Wind Speed: 34 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 3534-15
+Wind Direction: 35 degrees 
+Wind Speed: 34 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 3637-27
+Wind Direction: 36 degrees 
+Wind Speed: 137 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 354043 
+Wind Direction: 35 degrees 
+Wind Speed: 140 knots 
+Wind Temperature: -43
+
+The Altitude Weather for 34000 feet is: 343748 
+Wind Direction: 34 degrees 
+Wind Speed: 137 knots 
+Wind Temperature: -48
+
+The Altitude Weather for 36000 feet is:  313046
+Wind Direction:  3 degrees 
+Wind Speed: 13 knots 
+Wind Temperature: -4
+
+
+Station ID: JAN
+The Altitude Weather for 3000 feet is: 1805 99
+Wind Direction: 18 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 9900+18
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 9900+13
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 3612+07
+Wind Direction: 36 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 9900-07
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2907-17
+Wind Direction: 29 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 222431 
+Wind Direction: 22 degrees 
+Wind Speed: 24 knots 
+Wind Temperature: -31
+
+The Altitude Weather for 34000 feet is: 242840 
+Wind Direction: 24 degrees 
+Wind Speed: 28 knots 
+Wind Temperature: -40
+
+The Altitude Weather for 36000 feet is:  262953
+Wind Direction:  2 degrees 
+Wind Speed: 162 knots 
+Wind Temperature: -95
+
+
+Station ID: JAX
+The Altitude Weather for 3000 feet is: 2510 29
+Wind Direction: 25 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2912+17
+Wind Direction: 29 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2907+11
+Wind Direction: 29 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2717+07
+Wind Direction: 27 degrees 
+Wind Speed: 17 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 9900-05
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 0306-16
+Wind Direction: 03 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 020630 
+Wind Direction: 02 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: -30
+
+The Altitude Weather for 34000 feet is: 330940 
+Wind Direction: 33 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: -40
+
+The Altitude Weather for 36000 feet is:  331552
+Wind Direction:  3 degrees 
+Wind Speed: 31 knots 
+Wind Temperature: -55
+
+
+Station ID: JFK
+The Altitude Weather for 3000 feet is: 2509 25
+Wind Direction: 25 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2521+14
+Wind Direction: 25 degrees 
+Wind Speed: 21 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2625+07
+Wind Direction: 26 degrees 
+Wind Speed: 25 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2730+02
+Wind Direction: 27 degrees 
+Wind Speed: 30 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2731-09
+Wind Direction: 27 degrees 
+Wind Speed: 31 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2845-21
+Wind Direction: 28 degrees 
+Wind Speed: 145 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 275236 
+Wind Direction: 27 degrees 
+Wind Speed: 152 knots 
+Wind Temperature: -36
+
+The Altitude Weather for 34000 feet is: 277643 
+Wind Direction: 27 degrees 
+Wind Speed: 176 knots 
+Wind Temperature: -43
+
+The Altitude Weather for 36000 feet is:  277552
+Wind Direction:  2 degrees 
+Wind Speed: 177 knots 
+Wind Temperature: -55
+
+
+Station ID: JOT
+The Altitude Weather for 3000 feet is: 2812 29
+Wind Direction: 28 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2929+13
+Wind Direction: 29 degrees 
+Wind Speed: 29 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2936+07
+Wind Direction: 29 degrees 
+Wind Speed: 36 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2837+01
+Wind Direction: 28 degrees 
+Wind Speed: 137 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2737-10
+Wind Direction: 27 degrees 
+Wind Speed: 137 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2736-22
+Wind Direction: 27 degrees 
+Wind Speed: 36 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 276236 
+Wind Direction: 27 degrees 
+Wind Speed: 162 knots 
+Wind Temperature: -36
+
+The Altitude Weather for 34000 feet is: 288344 
+Wind Direction: 28 degrees 
+Wind Speed: 183 knots 
+Wind Temperature: -44
+
+The Altitude Weather for 36000 feet is:  278552
+Wind Direction:  2 degrees 
+Wind Speed: 178 knots 
+Wind Temperature: -55
+
+
+Station ID: LAS
+The Altitude Weather for 3000 feet is:      99
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 9900+28
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 2
+
+The Altitude Weather for 9000 feet is: 2305+19
+Wind Direction: 23 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2207+11
+Wind Direction: 22 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: -1
+
+The Altitude Weather for 18000 feet is: 2608-08
+Wind Direction: 26 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 0505-18
+Wind Direction: 05 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 271234 
+Wind Direction: 27 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: -34
+
+The Altitude Weather for 34000 feet is: 262442 
+Wind Direction: 26 degrees 
+Wind Speed: 24 knots 
+Wind Temperature: -42
+
+The Altitude Weather for 36000 feet is:  252751
+Wind Direction:  2 degrees 
+Wind Speed: 152 knots 
+Wind Temperature: -75
+
+
+Station ID: LBB
+The Altitude Weather for 3000 feet is:      22
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2211+24
+Wind Direction: 22 degrees 
+Wind Speed: 11 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 9000 feet is: 2310+18
+Wind Direction: 23 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 9900+10
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: -1
+
+The Altitude Weather for 18000 feet is: 3412-07
+Wind Direction: 34 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 3012-16
+Wind Direction: 30 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 281631 
+Wind Direction: 28 degrees 
+Wind Speed: 16 knots 
+Wind Temperature: -31
+
+The Altitude Weather for 34000 feet is: 292041 
+Wind Direction: 29 degrees 
+Wind Speed: 20 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  302253
+Wind Direction:  3 degrees 
+Wind Speed: 02 knots 
+Wind Temperature: -25
+
+
+Station ID: LCH
+The Altitude Weather for 3000 feet is: 1305 09
+Wind Direction: 13 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 0906+17
+Wind Direction: 09 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 0910+12
+Wind Direction: 09 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 0813+07
+Wind Direction: 08 degrees 
+Wind Speed: 13 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 0312-05
+Wind Direction: 03 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 1505-15
+Wind Direction: 15 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 201629 
+Wind Direction: 20 degrees 
+Wind Speed: 16 knots 
+Wind Temperature: -29
+
+The Altitude Weather for 34000 feet is: 221840 
+Wind Direction: 22 degrees 
+Wind Speed: 18 knots 
+Wind Temperature: -40
+
+The Altitude Weather for 36000 feet is:  221852
+Wind Direction:  2 degrees 
+Wind Speed: 21 knots 
+Wind Temperature: -85
+
+
+Station ID: LIT
+The Altitude Weather for 3000 feet is: 2006 28
+Wind Direction: 20 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2812+19
+Wind Direction: 28 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 3020+13
+Wind Direction: 30 degrees 
+Wind Speed: 20 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2924+06
+Wind Direction: 29 degrees 
+Wind Speed: 24 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 3022-07
+Wind Direction: 30 degrees 
+Wind Speed: 22 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2822-16
+Wind Direction: 28 degrees 
+Wind Speed: 22 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 251432 
+Wind Direction: 25 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: -32
+
+The Altitude Weather for 34000 feet is: 271341 
+Wind Direction: 27 degrees 
+Wind Speed: 13 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  241552
+Wind Direction:  2 degrees 
+Wind Speed: 141 knots 
+Wind Temperature: -55
+
+
+Station ID: LKV
+The Altitude Weather for 3000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 2407+14
+Wind Direction: 24 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2319+08
+Wind Direction: 23 degrees 
+Wind Speed: 19 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2428-08
+Wind Direction: 24 degrees 
+Wind Speed: 28 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2542-20
+Wind Direction: 25 degrees 
+Wind Speed: 142 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 254637 
+Wind Direction: 25 degrees 
+Wind Speed: 146 knots 
+Wind Temperature: -37
+
+The Altitude Weather for 34000 feet is: 264747 
+Wind Direction: 26 degrees 
+Wind Speed: 147 knots 
+Wind Temperature: -47
+
+The Altitude Weather for 36000 feet is:  265254
+Wind Direction:  2 degrees 
+Wind Speed: 165 knots 
+Wind Temperature: -25
+
+
+Station ID: LND
+The Altitude Weather for 3000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 3005+16
+Wind Direction: 30 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2913+08
+Wind Direction: 29 degrees 
+Wind Speed: 13 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 3225-10
+Wind Direction: 32 degrees 
+Wind Speed: 25 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 3136-23
+Wind Direction: 31 degrees 
+Wind Speed: 36 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 305139 
+Wind Direction: 30 degrees 
+Wind Speed: 151 knots 
+Wind Temperature: -39
+
+The Altitude Weather for 34000 feet is: 306047 
+Wind Direction: 30 degrees 
+Wind Speed: 160 knots 
+Wind Temperature: -47
+
+The Altitude Weather for 36000 feet is:  296353
+Wind Direction:  2 degrees 
+Wind Speed: 196 knots 
+Wind Temperature: -35
+
+
+Station ID: LOU
+The Altitude Weather for 3000 feet is: 2811 31
+Wind Direction: 28 degrees 
+Wind Speed: 11 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 3116+18
+Wind Direction: 31 degrees 
+Wind Speed: 16 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2718+12
+Wind Direction: 27 degrees 
+Wind Speed: 18 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2922+05
+Wind Direction: 29 degrees 
+Wind Speed: 22 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2733-08
+Wind Direction: 27 degrees 
+Wind Speed: 33 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2850-20
+Wind Direction: 28 degrees 
+Wind Speed: 150 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 287733 
+Wind Direction: 28 degrees 
+Wind Speed: 177 knots 
+Wind Temperature: -33
+
+The Altitude Weather for 34000 feet is: 277341 
+Wind Direction: 27 degrees 
+Wind Speed: 173 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  266952
+Wind Direction:  2 degrees 
+Wind Speed: 166 knots 
+Wind Temperature: -95
+
+
+Station ID: LRD
+The Altitude Weather for 3000 feet is: 1511 13
+Wind Direction: 15 degrees 
+Wind Speed: 11 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 1315+20
+Wind Direction: 13 degrees 
+Wind Speed: 15 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 9000 feet is: 0907+15
+Wind Direction: 09 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 0612+08
+Wind Direction: 06 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 0506-03
+Wind Direction: 05 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 3610-16
+Wind Direction: 36 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 990031 
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: -31
+
+The Altitude Weather for 34000 feet is: 990041 
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  110952
+Wind Direction:  1 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: -95
+
+
+Station ID: LSE
+The Altitude Weather for 3000 feet is: 2924 29
+Wind Direction: 29 degrees 
+Wind Speed: 24 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2933+08
+Wind Direction: 29 degrees 
+Wind Speed: 33 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 2850+05
+Wind Direction: 28 degrees 
+Wind Speed: 150 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2752-01
+Wind Direction: 27 degrees 
+Wind Speed: 152 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2747-12
+Wind Direction: 27 degrees 
+Wind Speed: 147 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2757-25
+Wind Direction: 27 degrees 
+Wind Speed: 157 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 279337 
+Wind Direction: 27 degrees 
+Wind Speed: 193 knots 
+Wind Temperature: -37
+
+The Altitude Weather for 34000 feet is: 770346 
+Wind Direction: 27 degrees 
+Wind Speed: 03 knots 
+Wind Temperature: -46
+
+The Altitude Weather for 36000 feet is:  771154
+Wind Direction:  7 degrees 
+Wind Speed: 171 knots 
+Wind Temperature: -15
+
+
+Station ID: LWS
+The Altitude Weather for 3000 feet is: 9900 99
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 9900+18
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2414+12
+Wind Direction: 24 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2624+05
+Wind Direction: 26 degrees 
+Wind Speed: 24 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2536-11
+Wind Direction: 25 degrees 
+Wind Speed: 36 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2644-23
+Wind Direction: 26 degrees 
+Wind Speed: 144 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 275539 
+Wind Direction: 27 degrees 
+Wind Speed: 155 knots 
+Wind Temperature: -39
+
+The Altitude Weather for 34000 feet is: 276048 
+Wind Direction: 27 degrees 
+Wind Speed: 160 knots 
+Wind Temperature: -48
+
+The Altitude Weather for 36000 feet is:  285956
+Wind Direction:  2 degrees 
+Wind Speed: 185 knots 
+Wind Temperature: -95
+
+
+Station ID: MBW
+The Altitude Weather for 3000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 2817   
+Wind Direction: 28 degrees 
+Wind Speed: 17 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2819+07
+Wind Direction: 28 degrees 
+Wind Speed: 19 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 3128-10
+Wind Direction: 31 degrees 
+Wind Speed: 28 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 3133-24
+Wind Direction: 31 degrees 
+Wind Speed: 33 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 304639 
+Wind Direction: 30 degrees 
+Wind Speed: 146 knots 
+Wind Temperature: -39
+
+The Altitude Weather for 34000 feet is: 305846 
+Wind Direction: 30 degrees 
+Wind Speed: 158 knots 
+Wind Temperature: -46
+
+The Altitude Weather for 36000 feet is:  296253
+Wind Direction:  2 degrees 
+Wind Speed: 196 knots 
+Wind Temperature: -25
+
+
+Station ID: MCW
+The Altitude Weather for 3000 feet is: 3123 27
+Wind Direction: 31 degrees 
+Wind Speed: 23 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2742+12
+Wind Direction: 27 degrees 
+Wind Speed: 142 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2741+06
+Wind Direction: 27 degrees 
+Wind Speed: 141 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2839+01
+Wind Direction: 28 degrees 
+Wind Speed: 139 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2839-12
+Wind Direction: 28 degrees 
+Wind Speed: 139 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2856-24
+Wind Direction: 28 degrees 
+Wind Speed: 156 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 278436 
+Wind Direction: 27 degrees 
+Wind Speed: 184 knots 
+Wind Temperature: -36
+
+The Altitude Weather for 34000 feet is: 268247 
+Wind Direction: 26 degrees 
+Wind Speed: 182 knots 
+Wind Temperature: -47
+
+The Altitude Weather for 36000 feet is:  760255
+Wind Direction:  7 degrees 
+Wind Speed: 160 knots 
+Wind Temperature: -25
+
+
+Station ID: MEM
+The Altitude Weather for 3000 feet is: 2411 28
+Wind Direction: 24 degrees 
+Wind Speed: 11 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2817+18
+Wind Direction: 28 degrees 
+Wind Speed: 17 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 3122+12
+Wind Direction: 31 degrees 
+Wind Speed: 22 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 3019+06
+Wind Direction: 30 degrees 
+Wind Speed: 19 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2924-06
+Wind Direction: 29 degrees 
+Wind Speed: 24 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2824-17
+Wind Direction: 28 degrees 
+Wind Speed: 24 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 222531 
+Wind Direction: 22 degrees 
+Wind Speed: 25 knots 
+Wind Temperature: -31
+
+The Altitude Weather for 34000 feet is: 231941 
+Wind Direction: 23 degrees 
+Wind Speed: 19 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  232252
+Wind Direction:  2 degrees 
+Wind Speed: 32 knots 
+Wind Temperature: -25
+
+
+Station ID: MGM
+The Altitude Weather for 3000 feet is: 9900 99
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 9900+17
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 9900+12
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2405+07
+Wind Direction: 24 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2809-06
+Wind Direction: 28 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2409-16
+Wind Direction: 24 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 211830 
+Wind Direction: 21 degrees 
+Wind Speed: 18 knots 
+Wind Temperature: -30
+
+The Altitude Weather for 34000 feet is: 251740 
+Wind Direction: 25 degrees 
+Wind Speed: 17 knots 
+Wind Temperature: -40
+
+The Altitude Weather for 36000 feet is:  271652
+Wind Direction:  2 degrees 
+Wind Speed: 171 knots 
+Wind Temperature: -65
+
+
+Station ID: MIA
+The Altitude Weather for 3000 feet is: 2006 99
+Wind Direction: 20 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 9900+17
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 9900+12
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 0907+06
+Wind Direction: 09 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 9900-07
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 0809-17
+Wind Direction: 08 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 081931 
+Wind Direction: 08 degrees 
+Wind Speed: 19 knots 
+Wind Temperature: -31
+
+The Altitude Weather for 34000 feet is: 082542 
+Wind Direction: 08 degrees 
+Wind Speed: 25 knots 
+Wind Temperature: -42
+
+The Altitude Weather for 36000 feet is:  073853
+Wind Direction:  0 degrees 
+Wind Speed: 173 knots 
+Wind Temperature: -85
+
+
+Station ID: MKC
+The Altitude Weather for 3000 feet is: 0912 99
+Wind Direction: 09 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 9900+14
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2721+10
+Wind Direction: 27 degrees 
+Wind Speed: 21 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2628+04
+Wind Direction: 26 degrees 
+Wind Speed: 28 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2742-08
+Wind Direction: 27 degrees 
+Wind Speed: 142 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2740-20
+Wind Direction: 27 degrees 
+Wind Speed: 140 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 294634 
+Wind Direction: 29 degrees 
+Wind Speed: 146 knots 
+Wind Temperature: -34
+
+The Altitude Weather for 34000 feet is: 305044 
+Wind Direction: 30 degrees 
+Wind Speed: 150 knots 
+Wind Temperature: -44
+
+The Altitude Weather for 36000 feet is:  285854
+Wind Direction:  2 degrees 
+Wind Speed: 185 knots 
+Wind Temperature: -85
+
+
+Station ID: MKG
+The Altitude Weather for 3000 feet is: 2821 30
+Wind Direction: 28 degrees 
+Wind Speed: 21 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 3040+11
+Wind Direction: 30 degrees 
+Wind Speed: 140 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2946+05
+Wind Direction: 29 degrees 
+Wind Speed: 146 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2848+00
+Wind Direction: 28 degrees 
+Wind Speed: 148 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2758-10
+Wind Direction: 27 degrees 
+Wind Speed: 158 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2845-22
+Wind Direction: 28 degrees 
+Wind Speed: 145 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 286437 
+Wind Direction: 28 degrees 
+Wind Speed: 164 knots 
+Wind Temperature: -37
+
+The Altitude Weather for 34000 feet is: 288247 
+Wind Direction: 28 degrees 
+Wind Speed: 182 knots 
+Wind Temperature: -47
+
+The Altitude Weather for 36000 feet is:  299956
+Wind Direction:  2 degrees 
+Wind Speed: 199 knots 
+Wind Temperature: -95
+
+
+Station ID: MLB
+The Altitude Weather for 3000 feet is: 9900 27
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2708+16
+Wind Direction: 27 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2709+11
+Wind Direction: 27 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 3108+06
+Wind Direction: 31 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 9900-06
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 0613-16
+Wind Direction: 06 degrees 
+Wind Speed: 13 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 081731 
+Wind Direction: 08 degrees 
+Wind Speed: 17 knots 
+Wind Temperature: -31
+
+The Altitude Weather for 34000 feet is: 081741 
+Wind Direction: 08 degrees 
+Wind Speed: 17 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  082253
+Wind Direction:  0 degrees 
+Wind Speed: 182 knots 
+Wind Temperature: -25
+
+
+Station ID: MLS
+The Altitude Weather for 3000 feet is:      01
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 0105+13
+Wind Direction: 01 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2915+08
+Wind Direction: 29 degrees 
+Wind Speed: 15 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 3224+00
+Wind Direction: 32 degrees 
+Wind Speed: 24 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 3140-13
+Wind Direction: 31 degrees 
+Wind Speed: 140 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 3049-25
+Wind Direction: 30 degrees 
+Wind Speed: 149 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 306041 
+Wind Direction: 30 degrees 
+Wind Speed: 160 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 34000 feet is: 295750 
+Wind Direction: 29 degrees 
+Wind Speed: 157 knots 
+Wind Temperature: -50
+
+The Altitude Weather for 36000 feet is:  295656
+Wind Direction:  2 degrees 
+Wind Speed: 195 knots 
+Wind Temperature: -65
+
+
+Station ID: MOB
+The Altitude Weather for 3000 feet is: 2606 36
+Wind Direction: 26 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 3609+16
+Wind Direction: 36 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 0906+11
+Wind Direction: 09 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 1311+06
+Wind Direction: 13 degrees 
+Wind Speed: 11 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 1807-06
+Wind Direction: 18 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2206-15
+Wind Direction: 22 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 191029 
+Wind Direction: 19 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: -29
+
+The Altitude Weather for 34000 feet is: 281740 
+Wind Direction: 28 degrees 
+Wind Speed: 17 knots 
+Wind Temperature: -40
+
+The Altitude Weather for 36000 feet is:  291552
+Wind Direction:  2 degrees 
+Wind Speed: 191 knots 
+Wind Temperature: -55
+
+
+Station ID: MOT
+The Altitude Weather for 3000 feet is:      32
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 3221+04
+Wind Direction: 32 degrees 
+Wind Speed: 21 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 3330+02
+Wind Direction: 33 degrees 
+Wind Speed: 30 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 3431-03
+Wind Direction: 34 degrees 
+Wind Speed: 31 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 3237-16
+Wind Direction: 32 degrees 
+Wind Speed: 137 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 3243-27
+Wind Direction: 32 degrees 
+Wind Speed: 143 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 315742 
+Wind Direction: 31 degrees 
+Wind Speed: 157 knots 
+Wind Temperature: -42
+
+The Altitude Weather for 34000 feet is: 317150 
+Wind Direction: 31 degrees 
+Wind Speed: 171 knots 
+Wind Temperature: -50
+
+The Altitude Weather for 36000 feet is:  315152
+Wind Direction:  3 degrees 
+Wind Speed: 15 knots 
+Wind Temperature: -15
+
+
+Station ID: MQT
+The Altitude Weather for 3000 feet is: 2820 27
+Wind Direction: 28 degrees 
+Wind Speed: 20 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2723+04
+Wind Direction: 27 degrees 
+Wind Speed: 23 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 2725-02
+Wind Direction: 27 degrees 
+Wind Speed: 25 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2733-05
+Wind Direction: 27 degrees 
+Wind Speed: 33 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2651-16
+Wind Direction: 26 degrees 
+Wind Speed: 151 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2656-28
+Wind Direction: 26 degrees 
+Wind Speed: 156 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 279239 
+Wind Direction: 27 degrees 
+Wind Speed: 192 knots 
+Wind Temperature: -39
+
+The Altitude Weather for 34000 feet is: 278847 
+Wind Direction: 27 degrees 
+Wind Speed: 188 knots 
+Wind Temperature: -47
+
+The Altitude Weather for 36000 feet is:  275648
+Wind Direction:  2 degrees 
+Wind Speed: 175 knots 
+Wind Temperature: -64
+
+
+Station ID: MRF
+The Altitude Weather for 3000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 0405+17
+Wind Direction: 04 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 0508+10
+Wind Direction: 05 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: -1
+
+The Altitude Weather for 18000 feet is: 3411-05
+Wind Direction: 34 degrees 
+Wind Speed: 11 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 0208-16
+Wind Direction: 02 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 081531 
+Wind Direction: 08 degrees 
+Wind Speed: 15 knots 
+Wind Temperature: -31
+
+The Altitude Weather for 34000 feet is: 081741 
+Wind Direction: 08 degrees 
+Wind Speed: 17 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  101453
+Wind Direction:  1 degrees 
+Wind Speed: 01 knots 
+Wind Temperature: -45
+
+
+Station ID: MSP
+The Altitude Weather for 3000 feet is: 2927 30
+Wind Direction: 29 degrees 
+Wind Speed: 27 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 3031+06
+Wind Direction: 30 degrees 
+Wind Speed: 31 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 3030+03
+Wind Direction: 30 degrees 
+Wind Speed: 30 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 3035-01
+Wind Direction: 30 degrees 
+Wind Speed: 35 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2951-15
+Wind Direction: 29 degrees 
+Wind Speed: 151 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2967-27
+Wind Direction: 29 degrees 
+Wind Speed: 167 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 288540 
+Wind Direction: 28 degrees 
+Wind Speed: 185 knots 
+Wind Temperature: -40
+
+The Altitude Weather for 34000 feet is: 279646 
+Wind Direction: 27 degrees 
+Wind Speed: 196 knots 
+Wind Temperature: -46
+
+The Altitude Weather for 36000 feet is:  278953
+Wind Direction:  2 degrees 
+Wind Speed: 178 knots 
+Wind Temperature: -95
+
+
+Station ID: MSY
+The Altitude Weather for 3000 feet is: 9900 02
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 0205+16
+Wind Direction: 02 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 0607+10
+Wind Direction: 06 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 1205+06
+Wind Direction: 12 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 1706-06
+Wind Direction: 17 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2208-15
+Wind Direction: 22 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 210929 
+Wind Direction: 21 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: -29
+
+The Altitude Weather for 34000 feet is: 220640 
+Wind Direction: 22 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: -40
+
+The Altitude Weather for 36000 feet is:  282152
+Wind Direction:  2 degrees 
+Wind Speed: 182 knots 
+Wind Temperature: -15
+
+
+Station ID: OKC
+The Altitude Weather for 3000 feet is: 2409 29
+Wind Direction: 24 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2912+23
+Wind Direction: 29 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 9000 feet is: 3110+15
+Wind Direction: 31 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 3112+08
+Wind Direction: 31 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2820-08
+Wind Direction: 28 degrees 
+Wind Speed: 20 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 3031-16
+Wind Direction: 30 degrees 
+Wind Speed: 31 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 272831 
+Wind Direction: 27 degrees 
+Wind Speed: 28 knots 
+Wind Temperature: -31
+
+The Altitude Weather for 34000 feet is: 283041 
+Wind Direction: 28 degrees 
+Wind Speed: 30 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  294053
+Wind Direction:  2 degrees 
+Wind Speed: 194 knots 
+Wind Temperature: -5
+
+
+Station ID: OMA
+The Altitude Weather for 3000 feet is: 1812 27
+Wind Direction: 18 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2711+16
+Wind Direction: 27 degrees 
+Wind Speed: 11 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 3125+10
+Wind Direction: 31 degrees 
+Wind Speed: 25 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 3231+03
+Wind Direction: 32 degrees 
+Wind Speed: 31 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 3054-11
+Wind Direction: 30 degrees 
+Wind Speed: 154 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2956-22
+Wind Direction: 29 degrees 
+Wind Speed: 156 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 275136 
+Wind Direction: 27 degrees 
+Wind Speed: 151 knots 
+Wind Temperature: -36
+
+The Altitude Weather for 34000 feet is: 255845 
+Wind Direction: 25 degrees 
+Wind Speed: 158 knots 
+Wind Temperature: -45
+
+The Altitude Weather for 36000 feet is:  257655
+Wind Direction:  2 degrees 
+Wind Speed: 157 knots 
+Wind Temperature: -65
+
+
+Station ID: ONL
+The Altitude Weather for 3000 feet is:      35
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 3517+11
+Wind Direction: 35 degrees 
+Wind Speed: 17 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 3427+07
+Wind Direction: 34 degrees 
+Wind Speed: 27 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 3336+01
+Wind Direction: 33 degrees 
+Wind Speed: 36 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 3049-11
+Wind Direction: 30 degrees 
+Wind Speed: 149 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 3053-23
+Wind Direction: 30 degrees 
+Wind Speed: 153 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 295038 
+Wind Direction: 29 degrees 
+Wind Speed: 150 knots 
+Wind Temperature: -38
+
+The Altitude Weather for 34000 feet is: 284147 
+Wind Direction: 28 degrees 
+Wind Speed: 141 knots 
+Wind Temperature: -47
+
+The Altitude Weather for 36000 feet is:  275153
+Wind Direction:  2 degrees 
+Wind Speed: 175 knots 
+Wind Temperature: -15
+
+
+Station ID: ONT
+The Altitude Weather for 3000 feet is: 2406 21
+Wind Direction: 24 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2106+24
+Wind Direction: 21 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 9000 feet is: 1905+17
+Wind Direction: 19 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 1610+10
+Wind Direction: 16 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: -1
+
+The Altitude Weather for 18000 feet is: 2606-07
+Wind Direction: 26 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2310-17
+Wind Direction: 23 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 201833 
+Wind Direction: 20 degrees 
+Wind Speed: 18 knots 
+Wind Temperature: -33
+
+The Altitude Weather for 34000 feet is: 202142 
+Wind Direction: 20 degrees 
+Wind Speed: 21 knots 
+Wind Temperature: -42
+
+The Altitude Weather for 36000 feet is:  221752
+Wind Direction:  2 degrees 
+Wind Speed: 21 knots 
+Wind Temperature: -75
+
+
+Station ID: ORF
+The Altitude Weather for 3000 feet is: 2416 27
+Wind Direction: 24 degrees 
+Wind Speed: 16 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2715+15
+Wind Direction: 27 degrees 
+Wind Speed: 15 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2727+10
+Wind Direction: 27 degrees 
+Wind Speed: 27 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2829+05
+Wind Direction: 28 degrees 
+Wind Speed: 29 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2832-08
+Wind Direction: 28 degrees 
+Wind Speed: 32 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2740-16
+Wind Direction: 27 degrees 
+Wind Speed: 140 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 275132 
+Wind Direction: 27 degrees 
+Wind Speed: 151 knots 
+Wind Temperature: -32
+
+The Altitude Weather for 34000 feet is: 275842 
+Wind Direction: 27 degrees 
+Wind Speed: 158 knots 
+Wind Temperature: -42
+
+The Altitude Weather for 36000 feet is:  306754
+Wind Direction:  3 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: -75
+
+
+Station ID: OTH
+The Altitude Weather for 3000 feet is: 0410 99
+Wind Direction: 04 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 9900+15
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2312+11
+Wind Direction: 23 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2220+04
+Wind Direction: 22 degrees 
+Wind Speed: 20 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2440-09
+Wind Direction: 24 degrees 
+Wind Speed: 140 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2458-21
+Wind Direction: 24 degrees 
+Wind Speed: 158 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 245837 
+Wind Direction: 24 degrees 
+Wind Speed: 158 knots 
+Wind Temperature: -37
+
+The Altitude Weather for 34000 feet is: 255947 
+Wind Direction: 25 degrees 
+Wind Speed: 159 knots 
+Wind Temperature: -47
+
+The Altitude Weather for 36000 feet is:  246054
+Wind Direction:  2 degrees 
+Wind Speed: 146 knots 
+Wind Temperature: -5
+
+
+Station ID: PDX
+The Altitude Weather for 3000 feet is: 3507 99
+Wind Direction: 35 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 9900+15
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2105+09
+Wind Direction: 21 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2214+03
+Wind Direction: 22 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2430-10
+Wind Direction: 24 degrees 
+Wind Speed: 30 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2441-23
+Wind Direction: 24 degrees 
+Wind Speed: 141 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 256337 
+Wind Direction: 25 degrees 
+Wind Speed: 163 knots 
+Wind Temperature: -37
+
+The Altitude Weather for 34000 feet is: 256147 
+Wind Direction: 25 degrees 
+Wind Speed: 161 knots 
+Wind Temperature: -47
+
+The Altitude Weather for 36000 feet is:  256055
+Wind Direction:  2 degrees 
+Wind Speed: 156 knots 
+Wind Temperature: -5
+
+
+Station ID: PFN
+The Altitude Weather for 3000 feet is: 2608 29
+Wind Direction: 26 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2905+16
+Wind Direction: 29 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 9900+11
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2206+07
+Wind Direction: 22 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2009-07
+Wind Direction: 20 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2106-15
+Wind Direction: 21 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 180729 
+Wind Direction: 18 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: -29
+
+The Altitude Weather for 34000 feet is: 160540 
+Wind Direction: 16 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: -40
+
+The Altitude Weather for 36000 feet is:  990053
+Wind Direction:  9 degrees 
+Wind Speed: 190 knots 
+Wind Temperature: -5
+
+
+Station ID: PHX
+The Altitude Weather for 3000 feet is: 3011 33
+Wind Direction: 30 degrees 
+Wind Speed: 11 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 3312+24
+Wind Direction: 33 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 9000 feet is: 3608+19
+Wind Direction: 36 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 0510+11
+Wind Direction: 05 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: -1
+
+The Altitude Weather for 18000 feet is: 0409-06
+Wind Direction: 04 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 3006-17
+Wind Direction: 30 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 270832 
+Wind Direction: 27 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: -32
+
+The Altitude Weather for 34000 feet is: 242542 
+Wind Direction: 24 degrees 
+Wind Speed: 25 knots 
+Wind Temperature: -42
+
+The Altitude Weather for 36000 feet is:  252553
+Wind Direction:  2 degrees 
+Wind Speed: 152 knots 
+Wind Temperature: -55
+
+
+Station ID: PIE
+The Altitude Weather for 3000 feet is: 2705 99
+Wind Direction: 27 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 9900+17
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2005+11
+Wind Direction: 20 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2407+06
+Wind Direction: 24 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 9900-06
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 0408-16
+Wind Direction: 04 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 081831 
+Wind Direction: 08 degrees 
+Wind Speed: 18 knots 
+Wind Temperature: -31
+
+The Altitude Weather for 34000 feet is: 082141 
+Wind Direction: 08 degrees 
+Wind Speed: 21 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  092654
+Wind Direction:  0 degrees 
+Wind Speed: 192 knots 
+Wind Temperature: -65
+
+
+Station ID: PIH
+The Altitude Weather for 3000 feet is:      99
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 9900   
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 9900+15
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2615+08
+Wind Direction: 26 degrees 
+Wind Speed: 15 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2921-08
+Wind Direction: 29 degrees 
+Wind Speed: 21 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2937-22
+Wind Direction: 29 degrees 
+Wind Speed: 137 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 304939 
+Wind Direction: 30 degrees 
+Wind Speed: 149 knots 
+Wind Temperature: -39
+
+The Altitude Weather for 34000 feet is: 305447 
+Wind Direction: 30 degrees 
+Wind Speed: 154 knots 
+Wind Temperature: -47
+
+The Altitude Weather for 36000 feet is:  295854
+Wind Direction:  2 degrees 
+Wind Speed: 195 knots 
+Wind Temperature: -85
+
+
+Station ID: PIR
+The Altitude Weather for 3000 feet is:      35
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 3507+07
+Wind Direction: 35 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 3239+04
+Wind Direction: 32 degrees 
+Wind Speed: 139 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 3254-01
+Wind Direction: 32 degrees 
+Wind Speed: 154 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 3154-12
+Wind Direction: 31 degrees 
+Wind Speed: 154 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 3157-24
+Wind Direction: 31 degrees 
+Wind Speed: 157 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 306239 
+Wind Direction: 30 degrees 
+Wind Speed: 162 knots 
+Wind Temperature: -39
+
+The Altitude Weather for 34000 feet is: 296348 
+Wind Direction: 29 degrees 
+Wind Speed: 163 knots 
+Wind Temperature: -48
+
+The Altitude Weather for 36000 feet is:  286356
+Wind Direction:  2 degrees 
+Wind Speed: 186 knots 
+Wind Temperature: -35
+
+
+Station ID: PLB
+The Altitude Weather for 3000 feet is: 2116 25
+Wind Direction: 21 degrees 
+Wind Speed: 16 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2529+11
+Wind Direction: 25 degrees 
+Wind Speed: 29 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2625+05
+Wind Direction: 26 degrees 
+Wind Speed: 25 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2630-01
+Wind Direction: 26 degrees 
+Wind Speed: 30 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2637-12
+Wind Direction: 26 degrees 
+Wind Speed: 137 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2643-24
+Wind Direction: 26 degrees 
+Wind Speed: 143 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 264639 
+Wind Direction: 26 degrees 
+Wind Speed: 146 knots 
+Wind Temperature: -39
+
+The Altitude Weather for 34000 feet is: 264548 
+Wind Direction: 26 degrees 
+Wind Speed: 145 knots 
+Wind Temperature: -48
+
+The Altitude Weather for 36000 feet is:  275353
+Wind Direction:  2 degrees 
+Wind Speed: 175 knots 
+Wind Temperature: -35
+
+
+Station ID: PRC
+The Altitude Weather for 3000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 0107+18
+Wind Direction: 01 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 0211+12
+Wind Direction: 02 degrees 
+Wind Speed: 11 knots 
+Wind Temperature: -1
+
+The Altitude Weather for 18000 feet is: 3607-08
+Wind Direction: 36 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2916-17
+Wind Direction: 29 degrees 
+Wind Speed: 16 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 271532 
+Wind Direction: 27 degrees 
+Wind Speed: 15 knots 
+Wind Temperature: -32
+
+The Altitude Weather for 34000 feet is: 232041 
+Wind Direction: 23 degrees 
+Wind Speed: 20 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  251252
+Wind Direction:  2 degrees 
+Wind Speed: 151 knots 
+Wind Temperature: -25
+
+
+Station ID: PSB
+The Altitude Weather for 3000 feet is:      28
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2822+14
+Wind Direction: 28 degrees 
+Wind Speed: 22 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2929+07
+Wind Direction: 29 degrees 
+Wind Speed: 29 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2728+02
+Wind Direction: 27 degrees 
+Wind Speed: 28 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2742-10
+Wind Direction: 27 degrees 
+Wind Speed: 142 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2745-22
+Wind Direction: 27 degrees 
+Wind Speed: 145 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 275237 
+Wind Direction: 27 degrees 
+Wind Speed: 152 knots 
+Wind Temperature: -37
+
+The Altitude Weather for 34000 feet is: 286344 
+Wind Direction: 28 degrees 
+Wind Speed: 163 knots 
+Wind Temperature: -44
+
+The Altitude Weather for 36000 feet is:  277050
+Wind Direction:  2 degrees 
+Wind Speed: 177 knots 
+Wind Temperature: -5
+
+
+Station ID: PSX
+The Altitude Weather for 3000 feet is: 2007 99
+Wind Direction: 20 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 9900+17
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 0414+12
+Wind Direction: 04 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 0515+07
+Wind Direction: 05 degrees 
+Wind Speed: 15 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 3613-05
+Wind Direction: 36 degrees 
+Wind Speed: 13 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 0412-17
+Wind Direction: 04 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 990029 
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: -29
+
+The Altitude Weather for 34000 feet is: 210540 
+Wind Direction: 21 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: -40
+
+The Altitude Weather for 36000 feet is:  151052
+Wind Direction:  1 degrees 
+Wind Speed: 151 knots 
+Wind Temperature: -5
+
+
+Station ID: PUB
+The Altitude Weather for 3000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 0110+19
+Wind Direction: 01 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 3211+10
+Wind Direction: 32 degrees 
+Wind Speed: 11 knots 
+Wind Temperature: -1
+
+The Altitude Weather for 18000 feet is: 3028-09
+Wind Direction: 30 degrees 
+Wind Speed: 28 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 3029-20
+Wind Direction: 30 degrees 
+Wind Speed: 29 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 284436 
+Wind Direction: 28 degrees 
+Wind Speed: 144 knots 
+Wind Temperature: -36
+
+The Altitude Weather for 34000 feet is: 285842 
+Wind Direction: 28 degrees 
+Wind Speed: 158 knots 
+Wind Temperature: -42
+
+The Altitude Weather for 36000 feet is:  286152
+Wind Direction:  2 degrees 
+Wind Speed: 186 knots 
+Wind Temperature: -15
+
+
+Station ID: PWM
+The Altitude Weather for 3000 feet is: 2217 24
+Wind Direction: 22 degrees 
+Wind Speed: 17 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2425+11
+Wind Direction: 24 degrees 
+Wind Speed: 25 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2526+06
+Wind Direction: 25 degrees 
+Wind Speed: 26 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2618+00
+Wind Direction: 26 degrees 
+Wind Speed: 18 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2727-12
+Wind Direction: 27 degrees 
+Wind Speed: 27 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2737-24
+Wind Direction: 27 degrees 
+Wind Speed: 137 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 275539 
+Wind Direction: 27 degrees 
+Wind Speed: 155 knots 
+Wind Temperature: -39
+
+The Altitude Weather for 34000 feet is: 275948 
+Wind Direction: 27 degrees 
+Wind Speed: 159 knots 
+Wind Temperature: -48
+
+The Altitude Weather for 36000 feet is:  286253
+Wind Direction:  2 degrees 
+Wind Speed: 186 knots 
+Wind Temperature: -25
+
+
+Station ID: RAP
+The Altitude Weather for 3000 feet is:      99
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 9900+11
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 3221+08
+Wind Direction: 32 degrees 
+Wind Speed: 21 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 3132+02
+Wind Direction: 31 degrees 
+Wind Speed: 32 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 3148-11
+Wind Direction: 31 degrees 
+Wind Speed: 148 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 3049-24
+Wind Direction: 30 degrees 
+Wind Speed: 149 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 284740 
+Wind Direction: 28 degrees 
+Wind Speed: 147 knots 
+Wind Temperature: -40
+
+The Altitude Weather for 34000 feet is: 284648 
+Wind Direction: 28 degrees 
+Wind Speed: 146 knots 
+Wind Temperature: -48
+
+The Altitude Weather for 36000 feet is:  285355
+Wind Direction:  2 degrees 
+Wind Speed: 185 knots 
+Wind Temperature: -35
+
+
+Station ID: RBL
+The Altitude Weather for 3000 feet is: 9900 19
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 1905+22
+Wind Direction: 19 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 9000 feet is: 2306+15
+Wind Direction: 23 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2307+09
+Wind Direction: 23 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2420-05
+Wind Direction: 24 degrees 
+Wind Speed: 20 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2423-19
+Wind Direction: 24 degrees 
+Wind Speed: 23 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 263236 
+Wind Direction: 26 degrees 
+Wind Speed: 32 knots 
+Wind Temperature: -36
+
+The Altitude Weather for 34000 feet is: 253746 
+Wind Direction: 25 degrees 
+Wind Speed: 137 knots 
+Wind Temperature: -46
+
+The Altitude Weather for 36000 feet is:  234754
+Wind Direction:  2 degrees 
+Wind Speed: 34 knots 
+Wind Temperature: -75
+
+
+Station ID: RDM
+The Altitude Weather for 3000 feet is:      99
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 9900+18
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2209+11
+Wind Direction: 22 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2223+05
+Wind Direction: 22 degrees 
+Wind Speed: 23 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2436-09
+Wind Direction: 24 degrees 
+Wind Speed: 36 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2555-21
+Wind Direction: 25 degrees 
+Wind Speed: 155 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 255837 
+Wind Direction: 25 degrees 
+Wind Speed: 158 knots 
+Wind Temperature: -37
+
+The Altitude Weather for 34000 feet is: 255347 
+Wind Direction: 25 degrees 
+Wind Speed: 153 knots 
+Wind Temperature: -47
+
+The Altitude Weather for 36000 feet is:  255755
+Wind Direction:  2 degrees 
+Wind Speed: 155 knots 
+Wind Temperature: -75
+
+
+Station ID: RDU
+The Altitude Weather for 3000 feet is: 2614 29
+Wind Direction: 26 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2908+15
+Wind Direction: 29 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2717+10
+Wind Direction: 27 degrees 
+Wind Speed: 17 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2723+05
+Wind Direction: 27 degrees 
+Wind Speed: 23 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2735-06
+Wind Direction: 27 degrees 
+Wind Speed: 35 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2737-16
+Wind Direction: 27 degrees 
+Wind Speed: 137 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 273431 
+Wind Direction: 27 degrees 
+Wind Speed: 34 knots 
+Wind Temperature: -31
+
+The Altitude Weather for 34000 feet is: 294341 
+Wind Direction: 29 degrees 
+Wind Speed: 143 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  304953
+Wind Direction:  3 degrees 
+Wind Speed: 04 knots 
+Wind Temperature: -95
+
+
+Station ID: RIC
+The Altitude Weather for 3000 feet is: 2311 30
+Wind Direction: 23 degrees 
+Wind Speed: 11 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 3010+15
+Wind Direction: 30 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2724+09
+Wind Direction: 27 degrees 
+Wind Speed: 24 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2728+04
+Wind Direction: 27 degrees 
+Wind Speed: 28 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2843-08
+Wind Direction: 28 degrees 
+Wind Speed: 143 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2745-17
+Wind Direction: 27 degrees 
+Wind Speed: 145 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 265632 
+Wind Direction: 26 degrees 
+Wind Speed: 156 knots 
+Wind Temperature: -32
+
+The Altitude Weather for 34000 feet is: 276241 
+Wind Direction: 27 degrees 
+Wind Speed: 162 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  298154
+Wind Direction:  2 degrees 
+Wind Speed: 198 knots 
+Wind Temperature: -15
+
+
+Station ID: RKS
+The Altitude Weather for 3000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 2810   
+Wind Direction: 28 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2816+08
+Wind Direction: 28 degrees 
+Wind Speed: 16 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 3222-09
+Wind Direction: 32 degrees 
+Wind Speed: 22 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 3137-22
+Wind Direction: 31 degrees 
+Wind Speed: 137 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 315138 
+Wind Direction: 31 degrees 
+Wind Speed: 151 knots 
+Wind Temperature: -38
+
+The Altitude Weather for 34000 feet is: 305446 
+Wind Direction: 30 degrees 
+Wind Speed: 154 knots 
+Wind Temperature: -46
+
+The Altitude Weather for 36000 feet is:  295953
+Wind Direction:  2 degrees 
+Wind Speed: 195 knots 
+Wind Temperature: -95
+
+
+Station ID: RNO
+The Altitude Weather for 3000 feet is:      24
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2405   
+Wind Direction: 24 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 2308+16
+Wind Direction: 23 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2016+10
+Wind Direction: 20 degrees 
+Wind Speed: 16 knots 
+Wind Temperature: -1
+
+The Altitude Weather for 18000 feet is: 2507-06
+Wind Direction: 25 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2407-19
+Wind Direction: 24 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 262636 
+Wind Direction: 26 degrees 
+Wind Speed: 26 knots 
+Wind Temperature: -36
+
+The Altitude Weather for 34000 feet is: 253445 
+Wind Direction: 25 degrees 
+Wind Speed: 34 knots 
+Wind Temperature: -45
+
+The Altitude Weather for 36000 feet is:  253953
+Wind Direction:  2 degrees 
+Wind Speed: 153 knots 
+Wind Temperature: -95
+
+
+Station ID: ROA
+The Altitude Weather for 3000 feet is: 2914 30
+Wind Direction: 29 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 3023+16
+Wind Direction: 30 degrees 
+Wind Speed: 23 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 3220+12
+Wind Direction: 32 degrees 
+Wind Speed: 20 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 3326+05
+Wind Direction: 33 degrees 
+Wind Speed: 26 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2834-07
+Wind Direction: 28 degrees 
+Wind Speed: 34 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2743-19
+Wind Direction: 27 degrees 
+Wind Speed: 143 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 276030 
+Wind Direction: 27 degrees 
+Wind Speed: 160 knots 
+Wind Temperature: -30
+
+The Altitude Weather for 34000 feet is: 296741 
+Wind Direction: 29 degrees 
+Wind Speed: 167 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  286453
+Wind Direction:  2 degrees 
+Wind Speed: 186 knots 
+Wind Temperature: -45
+
+
+Station ID: ROW
+The Altitude Weather for 3000 feet is:      99
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 9900   
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 3214+19
+Wind Direction: 32 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 3413+12
+Wind Direction: 34 degrees 
+Wind Speed: 13 knots 
+Wind Temperature: -1
+
+The Altitude Weather for 18000 feet is: 3160-07
+Wind Direction: 31 degrees 
+Wind Speed: 160 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 3075-16
+Wind Direction: 30 degrees 
+Wind Speed: 175 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 279731 
+Wind Direction: 27 degrees 
+Wind Speed: 197 knots 
+Wind Temperature: -31
+
+The Altitude Weather for 34000 feet is: 770341 
+Wind Direction: 27 degrees 
+Wind Speed: 03 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  781452
+Wind Direction:  7 degrees 
+Wind Speed: 181 knots 
+Wind Temperature: -45
+
+
+Station ID: SAC
+The Altitude Weather for 3000 feet is: 1910 23
+Wind Direction: 19 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2311+22
+Wind Direction: 23 degrees 
+Wind Speed: 11 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 9000 feet is: 2008+15
+Wind Direction: 20 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 1905+09
+Wind Direction: 19 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 9900-05
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 1807-19
+Wind Direction: 18 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 251936 
+Wind Direction: 25 degrees 
+Wind Speed: 19 knots 
+Wind Temperature: -36
+
+The Altitude Weather for 34000 feet is: 242645 
+Wind Direction: 24 degrees 
+Wind Speed: 26 knots 
+Wind Temperature: -45
+
+The Altitude Weather for 36000 feet is:  233554
+Wind Direction:  2 degrees 
+Wind Speed: 33 knots 
+Wind Temperature: -55
+
+
+Station ID: SAN
+The Altitude Weather for 3000 feet is: 2106 22
+Wind Direction: 21 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2206+23
+Wind Direction: 22 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 9000 feet is: 9900+17
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 0908+09
+Wind Direction: 09 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 9900-06
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 1814-17
+Wind Direction: 18 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 192033 
+Wind Direction: 19 degrees 
+Wind Speed: 20 knots 
+Wind Temperature: -33
+
+The Altitude Weather for 34000 feet is: 181842 
+Wind Direction: 18 degrees 
+Wind Speed: 18 knots 
+Wind Temperature: -42
+
+The Altitude Weather for 36000 feet is:  160852
+Wind Direction:  1 degrees 
+Wind Speed: 160 knots 
+Wind Temperature: -85
+
+
+Station ID: SAT
+The Altitude Weather for 3000 feet is: 1610 14
+Wind Direction: 16 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 1412+19
+Wind Direction: 14 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 0409+15
+Wind Direction: 04 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 0415+08
+Wind Direction: 04 degrees 
+Wind Speed: 15 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 3608-04
+Wind Direction: 36 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 0114-17
+Wind Direction: 01 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 031230 
+Wind Direction: 03 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: -30
+
+The Altitude Weather for 34000 feet is: 010640 
+Wind Direction: 01 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: -40
+
+The Altitude Weather for 36000 feet is:  160752
+Wind Direction:  1 degrees 
+Wind Speed: 160 knots 
+Wind Temperature: -75
+
+
+Station ID: SAV
+The Altitude Weather for 3000 feet is: 2412 27
+Wind Direction: 24 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2714+16
+Wind Direction: 27 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 3210+10
+Wind Direction: 32 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2909+07
+Wind Direction: 29 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2718-05
+Wind Direction: 27 degrees 
+Wind Speed: 18 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2916-15
+Wind Direction: 29 degrees 
+Wind Speed: 16 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 291530 
+Wind Direction: 29 degrees 
+Wind Speed: 15 knots 
+Wind Temperature: -30
+
+The Altitude Weather for 34000 feet is: 322441 
+Wind Direction: 32 degrees 
+Wind Speed: 24 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  312352
+Wind Direction:  3 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: -35
+
+
+Station ID: SBA
+The Altitude Weather for 3000 feet is: 9900 99
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 9900+23
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 2
+
+The Altitude Weather for 9000 feet is: 9900+17
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 1106+09
+Wind Direction: 11 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 1910-07
+Wind Direction: 19 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 1710-17
+Wind Direction: 17 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 171233 
+Wind Direction: 17 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: -33
+
+The Altitude Weather for 34000 feet is: 202142 
+Wind Direction: 20 degrees 
+Wind Speed: 21 knots 
+Wind Temperature: -42
+
+The Altitude Weather for 36000 feet is:  222651
+Wind Direction:  2 degrees 
+Wind Speed: 22 knots 
+Wind Temperature: -65
+
+
+Station ID: SEA
+The Altitude Weather for 3000 feet is: 0108 99
+Wind Direction: 01 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 9900+14
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2708+08
+Wind Direction: 27 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2411+02
+Wind Direction: 24 degrees 
+Wind Speed: 11 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2424-11
+Wind Direction: 24 degrees 
+Wind Speed: 24 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2429-24
+Wind Direction: 24 degrees 
+Wind Speed: 29 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 254338 
+Wind Direction: 25 degrees 
+Wind Speed: 143 knots 
+Wind Temperature: -38
+
+The Altitude Weather for 34000 feet is: 255047 
+Wind Direction: 25 degrees 
+Wind Speed: 150 knots 
+Wind Temperature: -47
+
+The Altitude Weather for 36000 feet is:  254754
+Wind Direction:  2 degrees 
+Wind Speed: 154 knots 
+Wind Temperature: -75
+
+
+Station ID: SFO
+The Altitude Weather for 3000 feet is: 1909 21
+Wind Direction: 19 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2111+22
+Wind Direction: 21 degrees 
+Wind Speed: 11 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 9000 feet is: 2007+15
+Wind Direction: 20 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 1708+10
+Wind Direction: 17 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: -1
+
+The Altitude Weather for 18000 feet is: 9900-05
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 1607-18
+Wind Direction: 16 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 241535 
+Wind Direction: 24 degrees 
+Wind Speed: 15 knots 
+Wind Temperature: -35
+
+The Altitude Weather for 34000 feet is: 232145 
+Wind Direction: 23 degrees 
+Wind Speed: 21 knots 
+Wind Temperature: -45
+
+The Altitude Weather for 36000 feet is:  233254
+Wind Direction:  2 degrees 
+Wind Speed: 33 knots 
+Wind Temperature: -25
+
+
+Station ID: SGF
+The Altitude Weather for 3000 feet is: 1614 29
+Wind Direction: 16 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2912+17
+Wind Direction: 29 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 3021+12
+Wind Direction: 30 degrees 
+Wind Speed: 21 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2925+06
+Wind Direction: 29 degrees 
+Wind Speed: 25 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 3038-08
+Wind Direction: 30 degrees 
+Wind Speed: 138 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2743-17
+Wind Direction: 27 degrees 
+Wind Speed: 143 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 265632 
+Wind Direction: 26 degrees 
+Wind Speed: 156 knots 
+Wind Temperature: -32
+
+The Altitude Weather for 34000 feet is: 255942 
+Wind Direction: 25 degrees 
+Wind Speed: 159 knots 
+Wind Temperature: -42
+
+The Altitude Weather for 36000 feet is:  276153
+Wind Direction:  2 degrees 
+Wind Speed: 176 knots 
+Wind Temperature: -15
+
+
+Station ID: SHV
+The Altitude Weather for 3000 feet is: 9900 99
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 9900+19
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 9900+13
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 0105+08
+Wind Direction: 01 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 3312-06
+Wind Direction: 33 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 3116-16
+Wind Direction: 31 degrees 
+Wind Speed: 16 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 320732 
+Wind Direction: 32 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: -32
+
+The Altitude Weather for 34000 feet is: 340641 
+Wind Direction: 34 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  271351
+Wind Direction:  2 degrees 
+Wind Speed: 171 knots 
+Wind Temperature: -35
+
+
+Station ID: SIY
+The Altitude Weather for 3000 feet is:      99
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 9900+20
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 2
+
+The Altitude Weather for 9000 feet is: 2213+15
+Wind Direction: 22 degrees 
+Wind Speed: 13 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2315+08
+Wind Direction: 23 degrees 
+Wind Speed: 15 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2429-08
+Wind Direction: 24 degrees 
+Wind Speed: 29 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2443-20
+Wind Direction: 24 degrees 
+Wind Speed: 143 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 254537 
+Wind Direction: 25 degrees 
+Wind Speed: 145 knots 
+Wind Temperature: -37
+
+The Altitude Weather for 34000 feet is: 265047 
+Wind Direction: 26 degrees 
+Wind Speed: 150 knots 
+Wind Temperature: -47
+
+The Altitude Weather for 36000 feet is:  245254
+Wind Direction:  2 degrees 
+Wind Speed: 145 knots 
+Wind Temperature: -25
+
+
+Station ID: SLC
+The Altitude Weather for 3000 feet is:      99
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 9900   
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 9900+19
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2612+11
+Wind Direction: 26 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: -1
+
+The Altitude Weather for 18000 feet is: 2922-09
+Wind Direction: 29 degrees 
+Wind Speed: 22 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 3027-20
+Wind Direction: 30 degrees 
+Wind Speed: 27 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 304138 
+Wind Direction: 30 degrees 
+Wind Speed: 141 knots 
+Wind Temperature: -38
+
+The Altitude Weather for 34000 feet is: 304645 
+Wind Direction: 30 degrees 
+Wind Speed: 146 knots 
+Wind Temperature: -45
+
+The Altitude Weather for 36000 feet is:  285153
+Wind Direction:  2 degrees 
+Wind Speed: 185 knots 
+Wind Temperature: -15
+
+
+Station ID: SLN
+The Altitude Weather for 3000 feet is: 3112 29
+Wind Direction: 31 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2917+18
+Wind Direction: 29 degrees 
+Wind Speed: 17 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2932+12
+Wind Direction: 29 degrees 
+Wind Speed: 32 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2724+06
+Wind Direction: 27 degrees 
+Wind Speed: 24 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2943-10
+Wind Direction: 29 degrees 
+Wind Speed: 143 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2935-19
+Wind Direction: 29 degrees 
+Wind Speed: 35 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 302834 
+Wind Direction: 30 degrees 
+Wind Speed: 28 knots 
+Wind Temperature: -34
+
+The Altitude Weather for 34000 feet is: 293743 
+Wind Direction: 29 degrees 
+Wind Speed: 137 knots 
+Wind Temperature: -43
+
+The Altitude Weather for 36000 feet is:  285354
+Wind Direction:  2 degrees 
+Wind Speed: 185 knots 
+Wind Temperature: -35
+
+
+Station ID: SPI
+The Altitude Weather for 3000 feet is: 2607 29
+Wind Direction: 26 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2911+14
+Wind Direction: 29 degrees 
+Wind Speed: 11 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2818+09
+Wind Direction: 28 degrees 
+Wind Speed: 18 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2624+03
+Wind Direction: 26 degrees 
+Wind Speed: 24 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2732-08
+Wind Direction: 27 degrees 
+Wind Speed: 32 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2737-20
+Wind Direction: 27 degrees 
+Wind Speed: 137 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 285535 
+Wind Direction: 28 degrees 
+Wind Speed: 155 knots 
+Wind Temperature: -35
+
+The Altitude Weather for 34000 feet is: 267243 
+Wind Direction: 26 degrees 
+Wind Speed: 172 knots 
+Wind Temperature: -43
+
+The Altitude Weather for 36000 feet is:  278453
+Wind Direction:  2 degrees 
+Wind Speed: 178 knots 
+Wind Temperature: -45
+
+
+Station ID: SPS
+The Altitude Weather for 3000 feet is: 2506 26
+Wind Direction: 25 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2606+22
+Wind Direction: 26 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 9000 feet is: 9900+15
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2805+09
+Wind Direction: 28 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 3014-07
+Wind Direction: 30 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 3120-16
+Wind Direction: 31 degrees 
+Wind Speed: 20 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 281930 
+Wind Direction: 28 degrees 
+Wind Speed: 19 knots 
+Wind Temperature: -30
+
+The Altitude Weather for 34000 feet is: 292341 
+Wind Direction: 29 degrees 
+Wind Speed: 23 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  302953
+Wind Direction:  3 degrees 
+Wind Speed: 02 knots 
+Wind Temperature: -95
+
+
+Station ID: SSM
+The Altitude Weather for 3000 feet is: 2917 26
+Wind Direction: 29 degrees 
+Wind Speed: 17 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2620+04
+Wind Direction: 26 degrees 
+Wind Speed: 20 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 2629-01
+Wind Direction: 26 degrees 
+Wind Speed: 29 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2631-03
+Wind Direction: 26 degrees 
+Wind Speed: 31 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2539-14
+Wind Direction: 25 degrees 
+Wind Speed: 139 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2543-25
+Wind Direction: 25 degrees 
+Wind Speed: 143 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 287540 
+Wind Direction: 28 degrees 
+Wind Speed: 175 knots 
+Wind Temperature: -40
+
+The Altitude Weather for 34000 feet is: 277549 
+Wind Direction: 27 degrees 
+Wind Speed: 175 knots 
+Wind Temperature: -49
+
+The Altitude Weather for 36000 feet is:  265452
+Wind Direction:  2 degrees 
+Wind Speed: 165 knots 
+Wind Temperature: -45
+
+
+Station ID: STL
+The Altitude Weather for 3000 feet is: 9900 29
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2915+16
+Wind Direction: 29 degrees 
+Wind Speed: 15 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2818+10
+Wind Direction: 28 degrees 
+Wind Speed: 18 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2720+04
+Wind Direction: 27 degrees 
+Wind Speed: 20 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2629-08
+Wind Direction: 26 degrees 
+Wind Speed: 29 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2736-19
+Wind Direction: 27 degrees 
+Wind Speed: 36 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 266634 
+Wind Direction: 26 degrees 
+Wind Speed: 166 knots 
+Wind Temperature: -34
+
+The Altitude Weather for 34000 feet is: 267842 
+Wind Direction: 26 degrees 
+Wind Speed: 178 knots 
+Wind Temperature: -42
+
+The Altitude Weather for 36000 feet is:  268253
+Wind Direction:  2 degrees 
+Wind Speed: 168 knots 
+Wind Temperature: -25
+
+
+Station ID: SYR
+The Altitude Weather for 3000 feet is: 2612 25
+Wind Direction: 26 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2524+12
+Wind Direction: 25 degrees 
+Wind Speed: 24 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2631+05
+Wind Direction: 26 degrees 
+Wind Speed: 31 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2729+02
+Wind Direction: 27 degrees 
+Wind Speed: 29 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2738-12
+Wind Direction: 27 degrees 
+Wind Speed: 138 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2748-23
+Wind Direction: 27 degrees 
+Wind Speed: 148 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 275038 
+Wind Direction: 27 degrees 
+Wind Speed: 150 knots 
+Wind Temperature: -38
+
+The Altitude Weather for 34000 feet is: 275147 
+Wind Direction: 27 degrees 
+Wind Speed: 151 knots 
+Wind Temperature: -47
+
+The Altitude Weather for 36000 feet is:  277351
+Wind Direction:  2 degrees 
+Wind Speed: 177 knots 
+Wind Temperature: -35
+
+
+Station ID: T01
+The Altitude Weather for 3000 feet is: 2607 26
+Wind Direction: 26 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2605+16
+Wind Direction: 26 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2005+11
+Wind Direction: 20 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 1906+06
+Wind Direction: 19 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2113-05
+Wind Direction: 21 degrees 
+Wind Speed: 13 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 1813-15
+Wind Direction: 18 degrees 
+Wind Speed: 13 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 110730 
+Wind Direction: 11 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: -30
+
+The Altitude Weather for 34000 feet is: 990040 
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: -40
+
+The Altitude Weather for 36000 feet is:  010853
+Wind Direction:  0 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: -85
+
+
+Station ID: T06
+The Altitude Weather for 3000 feet is: 2009 22
+Wind Direction: 20 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2209+16
+Wind Direction: 22 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2206+11
+Wind Direction: 22 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 9900+06
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 1911-06
+Wind Direction: 19 degrees 
+Wind Speed: 11 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 1706-15
+Wind Direction: 17 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 990029 
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: -29
+
+The Altitude Weather for 34000 feet is: 070640 
+Wind Direction: 07 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: -40
+
+The Altitude Weather for 36000 feet is:  040952
+Wind Direction:  0 degrees 
+Wind Speed: 140 knots 
+Wind Temperature: -95
+
+
+Station ID: T07
+The Altitude Weather for 3000 feet is: 2406 23
+Wind Direction: 24 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2309+16
+Wind Direction: 23 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2505+10
+Wind Direction: 25 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2510+07
+Wind Direction: 25 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 9900-06
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 9900-15
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 110930 
+Wind Direction: 11 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: -30
+
+The Altitude Weather for 34000 feet is: 101340 
+Wind Direction: 10 degrees 
+Wind Speed: 13 knots 
+Wind Temperature: -40
+
+The Altitude Weather for 36000 feet is:  061853
+Wind Direction:  0 degrees 
+Wind Speed: 161 knots 
+Wind Temperature: -85
+
+
+Station ID: TCC
+The Altitude Weather for 3000 feet is:      28
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2806   
+Wind Direction: 28 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 3106+17
+Wind Direction: 31 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 3508+11
+Wind Direction: 35 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: -1
+
+The Altitude Weather for 18000 feet is: 3220-06
+Wind Direction: 32 degrees 
+Wind Speed: 20 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2926-18
+Wind Direction: 29 degrees 
+Wind Speed: 26 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 273532 
+Wind Direction: 27 degrees 
+Wind Speed: 35 knots 
+Wind Temperature: -32
+
+The Altitude Weather for 34000 feet is: 274241 
+Wind Direction: 27 degrees 
+Wind Speed: 142 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  283953
+Wind Direction:  2 degrees 
+Wind Speed: 183 knots 
+Wind Temperature: -95
+
+
+Station ID: TLH
+The Altitude Weather for 3000 feet is: 2607 30
+Wind Direction: 26 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 3009+16
+Wind Direction: 30 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 9900+12
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2408+06
+Wind Direction: 24 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2307-06
+Wind Direction: 23 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 1912-15
+Wind Direction: 19 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 201030 
+Wind Direction: 20 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: -30
+
+The Altitude Weather for 34000 feet is: 180540 
+Wind Direction: 18 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: -40
+
+The Altitude Weather for 36000 feet is:  350853
+Wind Direction:  3 degrees 
+Wind Speed: 150 knots 
+Wind Temperature: -85
+
+
+Station ID: TRI
+The Altitude Weather for 3000 feet is:      29
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2913+16
+Wind Direction: 29 degrees 
+Wind Speed: 13 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 3311+12
+Wind Direction: 33 degrees 
+Wind Speed: 11 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 3320+06
+Wind Direction: 33 degrees 
+Wind Speed: 20 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2923-07
+Wind Direction: 29 degrees 
+Wind Speed: 23 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2834-16
+Wind Direction: 28 degrees 
+Wind Speed: 34 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 295631 
+Wind Direction: 29 degrees 
+Wind Speed: 156 knots 
+Wind Temperature: -31
+
+The Altitude Weather for 34000 feet is: 263442 
+Wind Direction: 26 degrees 
+Wind Speed: 34 knots 
+Wind Temperature: -42
+
+The Altitude Weather for 36000 feet is:  284853
+Wind Direction:  2 degrees 
+Wind Speed: 184 knots 
+Wind Temperature: -85
+
+
+Station ID: TUL
+The Altitude Weather for 3000 feet is: 2207 29
+Wind Direction: 22 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2918+21
+Wind Direction: 29 degrees 
+Wind Speed: 18 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 9000 feet is: 3114+14
+Wind Direction: 31 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2719+07
+Wind Direction: 27 degrees 
+Wind Speed: 19 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2922-08
+Wind Direction: 29 degrees 
+Wind Speed: 22 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2833-17
+Wind Direction: 28 degrees 
+Wind Speed: 33 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 274231 
+Wind Direction: 27 degrees 
+Wind Speed: 142 knots 
+Wind Temperature: -31
+
+The Altitude Weather for 34000 feet is: 264042 
+Wind Direction: 26 degrees 
+Wind Speed: 140 knots 
+Wind Temperature: -42
+
+The Altitude Weather for 36000 feet is:  284853
+Wind Direction:  2 degrees 
+Wind Speed: 184 knots 
+Wind Temperature: -85
+
+
+Station ID: TUS
+The Altitude Weather for 3000 feet is:      32
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 3213+25
+Wind Direction: 32 degrees 
+Wind Speed: 13 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 9000 feet is: 3609+17
+Wind Direction: 36 degrees 
+Wind Speed: 09 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 0406+10
+Wind Direction: 04 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: -1
+
+The Altitude Weather for 18000 feet is: 2010-06
+Wind Direction: 20 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2206-16
+Wind Direction: 22 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 270532 
+Wind Direction: 27 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: -32
+
+The Altitude Weather for 34000 feet is: 242042 
+Wind Direction: 24 degrees 
+Wind Speed: 20 knots 
+Wind Temperature: -42
+
+The Altitude Weather for 36000 feet is:  242953
+Wind Direction:  2 degrees 
+Wind Speed: 142 knots 
+Wind Temperature: -95
+
+
+Station ID: TVC
+The Altitude Weather for 3000 feet is: 2619 28
+Wind Direction: 26 degrees 
+Wind Speed: 19 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2826+06
+Wind Direction: 28 degrees 
+Wind Speed: 26 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 2838+03
+Wind Direction: 28 degrees 
+Wind Speed: 138 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 12000 feet is: 2742-02
+Wind Direction: 27 degrees 
+Wind Speed: 142 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2658-11
+Wind Direction: 26 degrees 
+Wind Speed: 158 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2755-23
+Wind Direction: 27 degrees 
+Wind Speed: 155 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 288739 
+Wind Direction: 28 degrees 
+Wind Speed: 187 knots 
+Wind Temperature: -39
+
+The Altitude Weather for 34000 feet is: 780248 
+Wind Direction: 28 degrees 
+Wind Speed: 02 knots 
+Wind Temperature: -48
+
+The Altitude Weather for 36000 feet is:  287554
+Wind Direction:  2 degrees 
+Wind Speed: 187 knots 
+Wind Temperature: -55
+
+
+Station ID: TYS
+The Altitude Weather for 3000 feet is: 2505 31
+Wind Direction: 25 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 3107+16
+Wind Direction: 31 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 3305+12
+Wind Direction: 33 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 3512+06
+Wind Direction: 35 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2932-06
+Wind Direction: 29 degrees 
+Wind Speed: 32 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2834-15
+Wind Direction: 28 degrees 
+Wind Speed: 34 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 283131 
+Wind Direction: 28 degrees 
+Wind Speed: 31 knots 
+Wind Temperature: -31
+
+The Altitude Weather for 34000 feet is: 253141 
+Wind Direction: 25 degrees 
+Wind Speed: 31 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  264253
+Wind Direction:  2 degrees 
+Wind Speed: 164 knots 
+Wind Temperature: -25
+
+
+Station ID: WJF
+The Altitude Weather for 3000 feet is:      24
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2408+24
+Wind Direction: 24 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 9000 feet is: 2108+18
+Wind Direction: 21 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 1607+10
+Wind Direction: 16 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: -1
+
+The Altitude Weather for 18000 feet is: 2406-07
+Wind Direction: 24 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 2006-17
+Wind Direction: 20 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 201233 
+Wind Direction: 20 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: -33
+
+The Altitude Weather for 34000 feet is: 212242 
+Wind Direction: 21 degrees 
+Wind Speed: 22 knots 
+Wind Temperature: -42
+
+The Altitude Weather for 36000 feet is:  222551
+Wind Direction:  2 degrees 
+Wind Speed: 22 knots 
+Wind Temperature: -55
+
+
+Station ID: YKM
+The Altitude Weather for 3000 feet is: 9900 99
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 9900+16
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2308+10
+Wind Direction: 23 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2417+04
+Wind Direction: 24 degrees 
+Wind Speed: 17 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2429-10
+Wind Direction: 24 degrees 
+Wind Speed: 29 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 24000 feet is: 2537-24
+Wind Direction: 25 degrees 
+Wind Speed: 137 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 30000 feet is: 265738 
+Wind Direction: 26 degrees 
+Wind Speed: 157 knots 
+Wind Temperature: -38
+
+The Altitude Weather for 34000 feet is: 266047 
+Wind Direction: 26 degrees 
+Wind Speed: 160 knots 
+Wind Temperature: -47
+
+The Altitude Weather for 36000 feet is:  265655
+Wind Direction:  2 degrees 
+Wind Speed: 165 knots 
+Wind Temperature: -65
+
+
+Station ID: ZUN
+The Altitude Weather for 3000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is:        
+Wind Direction: N/A degrees 
+Wind Speed: N/A knots 
+Wind Temperature: 0
+
+The Altitude Weather for 9000 feet is: 3605+21
+Wind Direction: 36 degrees 
+Wind Speed: 05 knots 
+Wind Temperature: 2
+
+The Altitude Weather for 12000 feet is: 0710+12
+Wind Direction: 07 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: -1
+
+The Altitude Weather for 18000 feet is: 3312-08
+Wind Direction: 33 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 9900-17
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 271832 
+Wind Direction: 27 degrees 
+Wind Speed: 18 knots 
+Wind Temperature: -32
+
+The Altitude Weather for 34000 feet is: 262541 
+Wind Direction: 26 degrees 
+Wind Speed: 25 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  262653
+Wind Direction:  2 degrees 
+Wind Speed: 162 knots 
+Wind Temperature: -65
+
+
+Station ID: 2XG
+The Altitude Weather for 3000 feet is: 2413 25
+Wind Direction: 24 degrees 
+Wind Speed: 13 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2514+16
+Wind Direction: 25 degrees 
+Wind Speed: 14 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 2510+12
+Wind Direction: 25 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2612+07
+Wind Direction: 26 degrees 
+Wind Speed: 12 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 3210-06
+Wind Direction: 32 degrees 
+Wind Speed: 10 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 3413-16
+Wind Direction: 34 degrees 
+Wind Speed: 13 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 020830 
+Wind Direction: 02 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: -30
+
+The Altitude Weather for 34000 feet is: 020741 
+Wind Direction: 02 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  361653
+Wind Direction:  3 degrees 
+Wind Speed: 161 knots 
+Wind Temperature: -65
+
+
+Station ID: 4J3
+The Altitude Weather for 3000 feet is: 9900 25
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 0
+
+The Altitude Weather for 6000 feet is: 2506+16
+Wind Direction: 25 degrees 
+Wind Speed: 06 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 9000 feet is: 1907+12
+Wind Direction: 19 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 1
+
+The Altitude Weather for 12000 feet is: 2108+07
+Wind Direction: 21 degrees 
+Wind Speed: 08 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 18000 feet is: 2207-05
+Wind Direction: 22 degrees 
+Wind Speed: 07 knots 
+Wind Temperature: 0
+
+The Altitude Weather for 24000 feet is: 9900-16
+Wind Direction: Calm degrees 
+Wind Speed: Calm knots 
+Wind Temperature: 1
+
+The Altitude Weather for 30000 feet is: 111330 
+Wind Direction: 11 degrees 
+Wind Speed: 13 knots 
+Wind Temperature: -30
+
+The Altitude Weather for 34000 feet is: 091641 
+Wind Direction: 09 degrees 
+Wind Speed: 16 knots 
+Wind Temperature: -41
+
+The Altitude Weather for 36000 feet is:  081553
+Wind Direction:  0 degrees 
+Wind Speed: 181 knots 
+Wind Temperature: -55
